@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/squeak/!svn/ver/1029/trunk/platforms/unix/vm-display-Quartz/Resources
+END
+GLXUnix-ikp.2.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/squeak/!svn/ver/995/trunk/platforms/unix/vm-display-Quartz/Resources/GLXUnix-ikp.2.cs
+END
+SqueakPlugin.icns
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/squeak/!svn/ver/725/trunk/platforms/unix/vm-display-Quartz/Resources/SqueakPlugin.icns
+END
+SqueakImage.icns
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/squeak/!svn/ver/725/trunk/platforms/unix/vm-display-Quartz/Resources/SqueakImage.icns
+END
+SqueakVM.icns
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/squeak/!svn/ver/995/trunk/platforms/unix/vm-display-Quartz/Resources/SqueakVM.icns
+END
+SqueakSources.icns
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/squeak/!svn/ver/995/trunk/platforms/unix/vm-display-Quartz/Resources/SqueakSources.icns
+END
+SqueakProject.icns
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/squeak/!svn/ver/995/trunk/platforms/unix/vm-display-Quartz/Resources/SqueakProject.icns
+END
+SqueakChanges.icns
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/squeak/!svn/ver/725/trunk/platforms/unix/vm-display-Quartz/Resources/SqueakChanges.icns
+END

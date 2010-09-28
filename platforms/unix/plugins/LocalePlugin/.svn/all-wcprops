@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/squeak/!svn/ver/1934/trunk/platforms/unix/plugins/LocalePlugin
+END
+sqUnixLocale.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/squeak/!svn/ver/1934/trunk/platforms/unix/plugins/LocalePlugin/sqUnixLocale.c
+END

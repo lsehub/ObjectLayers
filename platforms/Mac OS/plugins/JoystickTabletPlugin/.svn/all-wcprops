@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/squeak/!svn/ver/1708/trunk/platforms/Mac%20OS/plugins/JoystickTabletPlugin
+END
+HID_Error_Handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/squeak/!svn/ver/1177/trunk/platforms/Mac%20OS/plugins/JoystickTabletPlugin/HID_Error_Handler.h
+END
+HID_Utilities.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/squeak/!svn/ver/1708/trunk/platforms/Mac%20OS/plugins/JoystickTabletPlugin/HID_Utilities.c
+END
+HID_Utilities_Internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/squeak/!svn/ver/1177/trunk/platforms/Mac%20OS/plugins/JoystickTabletPlugin/HID_Utilities_Internal.h
+END
+HID_Name_Lookup.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/squeak/!svn/ver/1177/trunk/platforms/Mac%20OS/plugins/JoystickTabletPlugin/HID_Name_Lookup.h
+END
+HID_Queue_Utilities.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/squeak/!svn/ver/1708/trunk/platforms/Mac%20OS/plugins/JoystickTabletPlugin/HID_Queue_Utilities.c
+END
+sqMacJoystickAndTablet.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/squeak/!svn/ver/1344/trunk/platforms/Mac%20OS/plugins/JoystickTabletPlugin/sqMacJoystickAndTablet.c
+END
+HID_Utilities.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/squeak/!svn/ver/1671/trunk/platforms/Mac%20OS/plugins/JoystickTabletPlugin/HID_Utilities.h
+END
+libHIDUtilities.a
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/squeak/!svn/ver/1173/trunk/platforms/Mac%20OS/plugins/JoystickTabletPlugin/libHIDUtilities.a
+END
+HID_Utilities_External.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/squeak/!svn/ver/1173/trunk/platforms/Mac%20OS/plugins/JoystickTabletPlugin/HID_Utilities_External.h
+END
+HID_Queue_Utilities.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/squeak/!svn/ver/1177/trunk/platforms/Mac%20OS/plugins/JoystickTabletPlugin/HID_Queue_Utilities.h
+END
+HID_Error_Handler.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/squeak/!svn/ver/1177/trunk/platforms/Mac%20OS/plugins/JoystickTabletPlugin/HID_Error_Handler.c
+END
+HID_Name_Lookup.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/squeak/!svn/ver/1177/trunk/platforms/Mac%20OS/plugins/JoystickTabletPlugin/HID_Name_Lookup.c
+END

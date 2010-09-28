@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/squeak/!svn/ver/2102/trunk/platforms/unix/vm-sound-Sun
+END
+config.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/squeak/!svn/ver/2102/trunk/platforms/unix/vm-sound-Sun/config.cmake
+END
+acinclude.m4
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/squeak/!svn/ver/620/trunk/platforms/unix/vm-sound-Sun/acinclude.m4
+END
+sqUnixSoundSun.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/squeak/!svn/ver/2015/trunk/platforms/unix/vm-sound-Sun/sqUnixSoundSun.c
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/squeak/!svn/ver/2095/trunk/platforms/unix/plugins/SocketPlugin
+END
+sqUnixSocket.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/squeak/!svn/ver/2014/trunk/platforms/unix/plugins/SocketPlugin/sqUnixSocket.c
+END
+config.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/squeak/!svn/ver/2095/trunk/platforms/unix/plugins/SocketPlugin/config.cmake
+END

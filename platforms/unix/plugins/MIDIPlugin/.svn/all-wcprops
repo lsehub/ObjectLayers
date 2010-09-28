@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/squeak/!svn/ver/2072/trunk/platforms/unix/plugins/MIDIPlugin
+END
+sqUnixMIDINone.inc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/squeak/!svn/ver/1623/trunk/platforms/unix/plugins/MIDIPlugin/sqUnixMIDINone.inc
+END
+sqUnixMIDIALSA.inc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/squeak/!svn/ver/2072/trunk/platforms/unix/plugins/MIDIPlugin/sqUnixMIDIALSA.inc
+END
+Makefile.inc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/squeak/!svn/ver/1638/trunk/platforms/unix/plugins/MIDIPlugin/Makefile.inc
+END
+acinclude.m4
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/squeak/!svn/ver/1618/trunk/platforms/unix/plugins/MIDIPlugin/acinclude.m4
+END
+sqUnixMIDI.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/squeak/!svn/ver/1623/trunk/platforms/unix/plugins/MIDIPlugin/sqUnixMIDI.c
+END
+build.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/squeak/!svn/ver/2038/trunk/platforms/unix/plugins/MIDIPlugin/build.cmake
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/squeak/!svn/ver/2075/trunk/platforms/Mac%20OS/vm/Developer/SqueakQL
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/squeak/!svn/ver/2075/trunk/platforms/Mac%20OS/vm/Developer/SqueakQL/Info.plist
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/squeak/!svn/ver/2075/trunk/platforms/Mac%20OS/vm/Developer/SqueakQL/main.c
+END
+GeneratePreviewForURL.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/squeak/!svn/ver/2075/trunk/platforms/Mac%20OS/vm/Developer/SqueakQL/GeneratePreviewForURL.c
+END
+GenerateThumbnailForURL.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/squeak/!svn/ver/2075/trunk/platforms/Mac%20OS/vm/Developer/SqueakQL/GenerateThumbnailForURL.c
+END

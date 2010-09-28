@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/squeak/!svn/ver/2084/trunk/platforms/unix/plugins/XDisplayControlPlugin
+END
+config.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/squeak/!svn/ver/2084/trunk/platforms/unix/plugins/XDisplayControlPlugin/config.cmake
+END
+Makefile.inc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/squeak/!svn/ver/649/trunk/platforms/unix/plugins/XDisplayControlPlugin/Makefile.inc
+END
+acinclude.m4
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/squeak/!svn/ver/649/trunk/platforms/unix/plugins/XDisplayControlPlugin/acinclude.m4
+END
+build.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/squeak/!svn/ver/2084/trunk/platforms/unix/plugins/XDisplayControlPlugin/build.cmake
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/squeak/!svn/ver/2099/trunk/platforms/unix/plugins/GStreamerPlugin
+END
+config.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/squeak/!svn/ver/2099/trunk/platforms/unix/plugins/GStreamerPlugin/config.cmake
+END
+Makefile.inc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/squeak/!svn/ver/1859/trunk/platforms/unix/plugins/GStreamerPlugin/Makefile.inc
+END
+acinclude.m4
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/squeak/!svn/ver/1859/trunk/platforms/unix/plugins/GStreamerPlugin/acinclude.m4
+END

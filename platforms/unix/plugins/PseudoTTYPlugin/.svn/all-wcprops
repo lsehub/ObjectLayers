@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/squeak/!svn/ver/2100/trunk/platforms/unix/plugins/PseudoTTYPlugin
+END
+PseudoTTYPlugin.st
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/squeak/!svn/ver/963/trunk/platforms/unix/plugins/PseudoTTYPlugin/PseudoTTYPlugin.st
+END
+config.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/squeak/!svn/ver/2100/trunk/platforms/unix/plugins/PseudoTTYPlugin/config.cmake
+END
+openpty.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/squeak/!svn/ver/1571/trunk/platforms/unix/plugins/PseudoTTYPlugin/openpty.h
+END
+PseudoTTY.st
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/squeak/!svn/ver/963/trunk/platforms/unix/plugins/PseudoTTYPlugin/PseudoTTY.st
+END
+acinclude.m4
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/squeak/!svn/ver/620/trunk/platforms/unix/plugins/PseudoTTYPlugin/acinclude.m4
+END
+sqUnixPseudoTTYPlugin.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/squeak/!svn/ver/2072/trunk/platforms/unix/plugins/PseudoTTYPlugin/sqUnixPseudoTTYPlugin.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/squeak/!svn/ver/620/trunk/platforms/unix/plugins/PseudoTTYPlugin/README
+END
+build.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/squeak/!svn/ver/2084/trunk/platforms/unix/plugins/PseudoTTYPlugin/build.cmake
+END

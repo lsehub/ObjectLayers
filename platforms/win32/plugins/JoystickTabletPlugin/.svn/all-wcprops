@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/squeak/!svn/ver/342/trunk/platforms/win32/plugins/JoystickTabletPlugin
+END
+sqWin32Joystick.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/squeak/!svn/ver/342/trunk/platforms/win32/plugins/JoystickTabletPlugin/sqWin32Joystick.c
+END

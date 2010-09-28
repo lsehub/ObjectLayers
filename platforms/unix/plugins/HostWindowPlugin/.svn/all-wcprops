@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/squeak/!svn/ver/2084/trunk/platforms/unix/plugins/HostWindowPlugin
+END
+config.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/squeak/!svn/ver/2084/trunk/platforms/unix/plugins/HostWindowPlugin/config.cmake
+END
+sqUnixHostWindowPlugin.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/squeak/!svn/ver/1990/trunk/platforms/unix/plugins/HostWindowPlugin/sqUnixHostWindowPlugin.c
+END
+build.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/squeak/!svn/ver/2038/trunk/platforms/unix/plugins/HostWindowPlugin/build.cmake
+END

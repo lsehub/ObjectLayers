@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/squeak/!svn/ver/2007/trunk/platforms/unix/npsqueak
+END
+npsqueakregister.in
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/squeak/!svn/ver/1762/trunk/platforms/unix/npsqueak/npsqueakregister.in
+END
+npsqueakrun.in
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/squeak/!svn/ver/998/trunk/platforms/unix/npsqueak/npsqueakrun.in
+END
+npunix.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/squeak/!svn/ver/998/trunk/platforms/unix/npsqueak/npunix.c
+END
+README.npsqueak
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/squeak/!svn/ver/998/trunk/platforms/unix/npsqueak/README.npsqueak
+END
+npsqueak.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/squeak/!svn/ver/1029/trunk/platforms/unix/npsqueak/npsqueak.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/squeak/!svn/ver/2007/trunk/platforms/unix/npsqueak/Makefile
+END

@@ -1,0 +1,127 @@
+10
+
+dir
+2148
+http://squeakvm.org/svn/squeak/trunk/platforms/Cross/plugins
+http://squeakvm.org/svn/squeak
+
+
+
+2009-08-22T21:15:29.513528Z
+2078
+piumarta
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fa1542d4-bde8-0310-ad64-8ed1123d492a
+
+PseudoTTYPlugin
+dir
+
+JPEGReadWriter2Plugin
+dir
+
+SecurityPlugin
+dir
+
+Mpeg3Plugin
+dir
+
+InternetConfigPlugin
+dir
+
+SerialPlugin
+dir
+
+CroquetPlugin
+dir
+
+PrintJobPlugin
+dir
+
+SoundPlugin
+dir
+
+GStreamerPlugin
+dir
+
+IA32ABI
+dir
+
+LocalePlugin
+dir
+
+Squeak3D
+dir
+
+ExuperyPlugin
+dir
+
+DropPlugin
+dir
+
+SoundGenerationPlugin
+dir
+
+ExampleSurfacePlugin
+dir
+
+HostWindowPlugin
+dir
+
+RePlugin
+dir
+
+UUIDPlugin
+dir
+
+SqueakFFIPrims
+dir
+
+FileCopyPlugin
+dir
+
+OggPlugin
+dir
+
+B3DAcceleratorPlugin
+dir
+
+FilePlugin
+dir
+
+FloatMathPlugin
+dir
+
+SoundCodecPrims
+dir
+
+MIDIPlugin
+dir
+
+AsynchFilePlugin
+dir
+
+SurfacePlugin
+dir
+
+SocketPlugin
+dir
+
+QuicktimePlugin
+dir
+
+JoystickTabletPlugin
+dir
+

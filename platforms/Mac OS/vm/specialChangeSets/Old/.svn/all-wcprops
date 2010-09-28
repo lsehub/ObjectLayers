@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/squeak/!svn/ver/1984/trunk/platforms/Mac%20OS/vm/specialChangeSets/Old
+END
+FasterCopyLoop-JMM.4.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/squeak/!svn/ver/821/trunk/platforms/Mac%20OS/vm/specialChangeSets/Old/FasterCopyLoop-JMM.4.cs
+END
+FasterLookupMethod-JMM.1.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/squeak/!svn/ver/821/trunk/platforms/Mac%20OS/vm/specialChangeSets/Old/FasterLookupMethod-JMM.1.cs
+END
+FasterCopyLoopPart2-JMM.2.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/squeak/!svn/ver/821/trunk/platforms/Mac%20OS/vm/specialChangeSets/Old/FasterCopyLoopPart2-JMM.2.cs
+END
+bigCursor-bf.1.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/squeak/!svn/ver/1949/trunk/platforms/Mac%20OS/vm/specialChangeSets/Old/bigCursor-bf.1.cs
+END
+MakePrimPointXInternal-JMM.1.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/squeak/!svn/ver/821/trunk/platforms/Mac%20OS/vm/specialChangeSets/Old/MakePrimPointXInternal-JMM.1.cs
+END
+Interpreter-readImageFromFile-jmm-dtl.2.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/squeak/!svn/ver/1984/trunk/platforms/Mac%20OS/vm/specialChangeSets/Old/Interpreter-readImageFromFile-jmm-dtl.2.cs
+END
+VMM38-64bit-imageUpdates.1.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/squeak/!svn/ver/1949/trunk/platforms/Mac%20OS/vm/specialChangeSets/Old/VMM38-64bit-imageUpdates.1.cs
+END
+VMM38-gc-instrument-image.1.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/squeak/!svn/ver/1949/trunk/platforms/Mac%20OS/vm/specialChangeSets/Old/VMM38-gc-instrument-image.1.cs
+END
+JMM-fixBiasToGrow.1.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/squeak/!svn/ver/1949/trunk/platforms/Mac%20OS/vm/specialChangeSets/Old/JMM-fixBiasToGrow.1.cs
+END
+SlightlyFasterActivate-JMM.3.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/squeak/!svn/ver/821/trunk/platforms/Mac%20OS/vm/specialChangeSets/Old/SlightlyFasterActivate-JMM.3.cs
+END
+JMM-fixBiasToGrow.1.cs.zip
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/squeak/!svn/ver/1949/trunk/platforms/Mac%20OS/vm/specialChangeSets/Old/JMM-fixBiasToGrow.1.cs.zip
+END
+ArraysToGlobalStruct-JMM.1.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/squeak/!svn/ver/1949/trunk/platforms/Mac%20OS/vm/specialChangeSets/Old/ArraysToGlobalStruct-JMM.1.cs
+END

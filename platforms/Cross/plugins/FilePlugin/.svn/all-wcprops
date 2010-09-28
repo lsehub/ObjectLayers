@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/squeak/!svn/ver/1930/trunk/platforms/Cross/plugins/FilePlugin
+END
+sqFilePluginBasicPrims.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/squeak/!svn/ver/1930/trunk/platforms/Cross/plugins/FilePlugin/sqFilePluginBasicPrims.c
+END
+FilePlugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/squeak/!svn/ver/1283/trunk/platforms/Cross/plugins/FilePlugin/FilePlugin.h
+END

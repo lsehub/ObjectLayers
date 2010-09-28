@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/squeak/!svn/ver/2127/trunk/platforms/unix/plugins/FileCopyPlugin
+END
+sqUnixFileCopyPlugin.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/squeak/!svn/ver/2127/trunk/platforms/unix/plugins/FileCopyPlugin/sqUnixFileCopyPlugin.c
+END
+build.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/squeak/!svn/ver/2038/trunk/platforms/unix/plugins/FileCopyPlugin/build.cmake
+END

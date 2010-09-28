@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/squeak/!svn/ver/2142/trunk/platforms/unix/plugins/SerialPlugin
+END
+sqUnixSerial.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/squeak/!svn/ver/2142/trunk/platforms/unix/plugins/SerialPlugin/sqUnixSerial.c
+END

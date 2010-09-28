@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/squeak/!svn/ver/1700/trunk/platforms/win32/plugins/AsynchFilePlugin
+END
+sqWin32AsyncFilePrims.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/squeak/!svn/ver/1700/trunk/platforms/win32/plugins/AsynchFilePlugin/sqWin32AsyncFilePrims.c
+END

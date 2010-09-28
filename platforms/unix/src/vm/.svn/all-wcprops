@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/squeak/!svn/ver/2134/trunk/platforms/unix/src/vm
+END
+interp.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/squeak/!svn/ver/2106/trunk/platforms/unix/src/vm/interp.c
+END
+interp.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/squeak/!svn/ver/2134/trunk/platforms/unix/src/vm/interp.h
+END
+sqNamedPrims.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/squeak/!svn/ver/2106/trunk/platforms/unix/src/vm/sqNamedPrims.h
+END

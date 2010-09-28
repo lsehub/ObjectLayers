@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/squeak/!svn/ver/1399/trunk/platforms/win32/plugins/B3DAcceleratorPlugin
+END
+sqWin32OpenGL.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/squeak/!svn/ver/358/trunk/platforms/win32/plugins/B3DAcceleratorPlugin/sqWin32OpenGL.h
+END
+sqWin32D3D.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/squeak/!svn/ver/467/trunk/platforms/win32/plugins/B3DAcceleratorPlugin/sqWin32D3D.c
+END
+sqWin32OpenGL.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/squeak/!svn/ver/467/trunk/platforms/win32/plugins/B3DAcceleratorPlugin/sqWin32OpenGL.c
+END
+sqWin32DualB3DX.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/squeak/!svn/ver/1399/trunk/platforms/win32/plugins/B3DAcceleratorPlugin/sqWin32DualB3DX.c
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/squeak/!svn/ver/2/trunk/platforms/Mac%20OS/vm/PluginSDK%204.01a/Include
+END
+jritypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/squeak/!svn/ver/2/trunk/platforms/Mac%20OS/vm/PluginSDK%204.01a/Include/jritypes.h
+END
+jni.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/squeak/!svn/ver/2/trunk/platforms/Mac%20OS/vm/PluginSDK%204.01a/Include/jni.h
+END
+jni_md.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/2/trunk/platforms/Mac%20OS/vm/PluginSDK%204.01a/Include/jni_md.h
+END
+npupp.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/squeak/!svn/ver/2/trunk/platforms/Mac%20OS/vm/PluginSDK%204.01a/Include/npupp.h
+END
+jri.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/squeak/!svn/ver/2/trunk/platforms/Mac%20OS/vm/PluginSDK%204.01a/Include/jri.h
+END
+jri_md.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/2/trunk/platforms/Mac%20OS/vm/PluginSDK%204.01a/Include/jri_md.h
+END
+npapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/squeak/!svn/ver/2/trunk/platforms/Mac%20OS/vm/PluginSDK%204.01a/Include/npapi.h
+END

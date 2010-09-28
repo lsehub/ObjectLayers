@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/squeak/!svn/ver/342/trunk/platforms/win32/plugins/UUIDPlugin
+END
+sqWin32UUID.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/squeak/!svn/ver/342/trunk/platforms/win32/plugins/UUIDPlugin/sqWin32UUID.c
+END

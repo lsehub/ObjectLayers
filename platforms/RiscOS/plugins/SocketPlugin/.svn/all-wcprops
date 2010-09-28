@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/squeak/!svn/ver/1442/trunk/platforms/RiscOS/plugins/SocketPlugin
+END
+sqRPCNetPlugin.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/squeak/!svn/ver/1442/trunk/platforms/RiscOS/plugins/SocketPlugin/sqRPCNetPlugin.c
+END
+aio.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/squeak/!svn/ver/881/trunk/platforms/RiscOS/plugins/SocketPlugin/aio.h
+END

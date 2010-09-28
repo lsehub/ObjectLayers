@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/squeak/!svn/ver/1955/trunk/platforms/Cross/vm
+END
+sqVirtualMachine.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/squeak/!svn/ver/1955/trunk/platforms/Cross/vm/sqVirtualMachine.c
+END
+sqMemoryAccess.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/squeak/!svn/ver/1712/trunk/platforms/Cross/vm/sqMemoryAccess.h
+END
+sqNamedPrims.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/squeak/!svn/ver/1150/trunk/platforms/Cross/vm/sqNamedPrims.c
+END
+sqVirtualMachine.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/squeak/!svn/ver/1955/trunk/platforms/Cross/vm/sqVirtualMachine.h
+END
+sq.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/squeak/!svn/ver/1856/trunk/platforms/Cross/vm/sq.h
+END

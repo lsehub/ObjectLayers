@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/squeak/!svn/ver/620/trunk/platforms/unix/plugins/PrintJobPlugin
+END
+sqPrinting.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/squeak/!svn/ver/620/trunk/platforms/unix/plugins/PrintJobPlugin/sqPrinting.c
+END
+sqPrinting.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/squeak/!svn/ver/620/trunk/platforms/unix/plugins/PrintJobPlugin/sqPrinting.h
+END

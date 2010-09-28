@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/squeak/!svn/ver/972/trunk/platforms/unix/plugins/SoundPlugin/zzz
+END
+Buffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/squeak/!svn/ver/620/trunk/platforms/unix/plugins/SoundPlugin/zzz/Buffer.h
+END
+ring.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/squeak/!svn/ver/972/trunk/platforms/unix/plugins/SoundPlugin/zzz/ring.h
+END
+Fifo.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/squeak/!svn/ver/620/trunk/platforms/unix/plugins/SoundPlugin/zzz/Fifo.h
+END
+DoubleBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/squeak/!svn/ver/620/trunk/platforms/unix/plugins/SoundPlugin/zzz/DoubleBuffer.h
+END

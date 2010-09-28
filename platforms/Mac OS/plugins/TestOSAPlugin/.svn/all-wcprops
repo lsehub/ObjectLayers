@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/squeak/!svn/ver/1516/trunk/platforms/Mac%20OS/plugins/TestOSAPlugin
+END
+JMMFixOSAPluginForOSX.1.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/squeak/!svn/ver/1267/trunk/platforms/Mac%20OS/plugins/TestOSAPlugin/JMMFixOSAPluginForOSX.1.cs
+END
+SqueakPlugin.icns
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/squeak/!svn/ver/1266/trunk/platforms/Mac%20OS/plugins/TestOSAPlugin/SqueakPlugin.icns
+END
+TestOSAPlugin.proj.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/squeak/!svn/ver/2/trunk/platforms/Mac%20OS/plugins/TestOSAPlugin/TestOSAPlugin.proj.xml
+END
+Info-TestOSAPlugin__Upgraded_.plist
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/squeak/!svn/ver/1357/trunk/platforms/Mac%20OS/plugins/TestOSAPlugin/Info-TestOSAPlugin__Upgraded_.plist
+END
+TestOSAPlugin.xcodeproj.zip
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/squeak/!svn/ver/1514/trunk/platforms/Mac%20OS/plugins/TestOSAPlugin/TestOSAPlugin.xcodeproj.zip
+END

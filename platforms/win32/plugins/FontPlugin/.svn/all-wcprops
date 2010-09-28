@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/squeak/!svn/ver/786/trunk/platforms/win32/plugins/FontPlugin
+END
+sqWin32FontPlugin.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/786/trunk/platforms/win32/plugins/FontPlugin/sqWin32FontPlugin.c
+END

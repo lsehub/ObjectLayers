@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/squeak/!svn/ver/2089/trunk/platforms/win32/plugins/SecurityPlugin
+END
+sqWin32Security.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/squeak/!svn/ver/2089/trunk/platforms/win32/plugins/SecurityPlugin/sqWin32Security.c
+END

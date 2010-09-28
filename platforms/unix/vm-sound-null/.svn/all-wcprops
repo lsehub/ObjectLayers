@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/squeak/!svn/ver/2038/trunk/platforms/unix/vm-sound-null
+END
+sqUnixSoundNull.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/squeak/!svn/ver/1857/trunk/platforms/unix/vm-sound-null/sqUnixSoundNull.c
+END
+build.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/squeak/!svn/ver/2038/trunk/platforms/unix/vm-sound-null/build.cmake
+END

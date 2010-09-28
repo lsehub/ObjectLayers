@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/squeak/!svn/ver/2126/trunk/platforms/win32
+END
+Makefile.mingw32
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/squeak/!svn/ver/1465/trunk/platforms/win32/Makefile.mingw32
+END
+Croquet1.0.0.config
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/squeak/!svn/ver/1385/trunk/platforms/win32/Croquet1.0.0.config
+END
+build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/squeak/!svn/ver/344/trunk/platforms/win32/build.bat
+END
+HowToBuild.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/squeak/!svn/ver/1655/trunk/platforms/win32/HowToBuild.txt
+END

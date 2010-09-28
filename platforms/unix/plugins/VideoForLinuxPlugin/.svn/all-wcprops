@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/squeak/!svn/ver/1762/trunk/platforms/unix/plugins/VideoForLinuxPlugin
+END
+VideoForLinuxPlugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/squeak/!svn/ver/1589/trunk/platforms/unix/plugins/VideoForLinuxPlugin/VideoForLinuxPlugin.h
+END
+palettes.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/1762/trunk/platforms/unix/plugins/VideoForLinuxPlugin/palettes.c
+END
+videolib.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/1762/trunk/platforms/unix/plugins/VideoForLinuxPlugin/videolib.h
+END
+ccvt_c2.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/squeak/!svn/ver/1589/trunk/platforms/unix/plugins/VideoForLinuxPlugin/ccvt_c2.c
+END
+ccvt.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/squeak/!svn/ver/1589/trunk/platforms/unix/plugins/VideoForLinuxPlugin/ccvt.h
+END
+acinclude.m4
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/squeak/!svn/ver/1595/trunk/platforms/unix/plugins/VideoForLinuxPlugin/acinclude.m4
+END
+palettes.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/1762/trunk/platforms/unix/plugins/VideoForLinuxPlugin/palettes.h
+END
+ccvt_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/squeak/!svn/ver/1589/trunk/platforms/unix/plugins/VideoForLinuxPlugin/ccvt_types.h
+END
+Video4Squeak-dgd.8.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/squeak/!svn/ver/1589/trunk/platforms/unix/plugins/VideoForLinuxPlugin/Video4Squeak-dgd.8.cs
+END
+ccvt_misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/squeak/!svn/ver/1589/trunk/platforms/unix/plugins/VideoForLinuxPlugin/ccvt_misc.c
+END
+VideoForLinuxPlugin.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/squeak/!svn/ver/1762/trunk/platforms/unix/plugins/VideoForLinuxPlugin/VideoForLinuxPlugin.c
+END
+videolib.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/1762/trunk/platforms/unix/plugins/VideoForLinuxPlugin/videolib.c
+END

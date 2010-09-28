@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/squeak/!svn/ver/2083/trunk/platforms/unix/plugins/FloatMathPlugin
+END
+config.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/squeak/!svn/ver/2083/trunk/platforms/unix/plugins/FloatMathPlugin/config.cmake
+END
+Makefile.inc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/squeak/!svn/ver/1474/trunk/platforms/unix/plugins/FloatMathPlugin/Makefile.inc
+END
+acinclude.m4
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/squeak/!svn/ver/1429/trunk/platforms/unix/plugins/FloatMathPlugin/acinclude.m4
+END

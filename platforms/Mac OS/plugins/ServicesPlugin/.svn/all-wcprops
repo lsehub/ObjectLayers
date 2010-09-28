@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/squeak/!svn/ver/1519/trunk/platforms/Mac%20OS/plugins/ServicesPlugin
+END
+JMMMacServices.5.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/squeak/!svn/ver/1318/trunk/platforms/Mac%20OS/plugins/ServicesPlugin/JMMMacServices.5.cs
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/squeak/!svn/ver/1411/trunk/platforms/Mac%20OS/plugins/ServicesPlugin/Info.plist
+END
+sqMacServices.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/squeak/!svn/ver/1358/trunk/platforms/Mac%20OS/plugins/ServicesPlugin/sqMacServices.c
+END
+JMMServicesPlugin.2.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/squeak/!svn/ver/1292/trunk/platforms/Mac%20OS/plugins/ServicesPlugin/JMMServicesPlugin.2.cs
+END
+SqueakServices.xcodeproj.zip
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/squeak/!svn/ver/1514/trunk/platforms/Mac%20OS/plugins/ServicesPlugin/SqueakServices.xcodeproj.zip
+END
+MacServicesReadMe.rtf
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/squeak/!svn/ver/1250/trunk/platforms/Mac%20OS/plugins/ServicesPlugin/MacServicesReadMe.rtf
+END
+sqMacServices.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/squeak/!svn/ver/1250/trunk/platforms/Mac%20OS/plugins/ServicesPlugin/sqMacServices.h
+END

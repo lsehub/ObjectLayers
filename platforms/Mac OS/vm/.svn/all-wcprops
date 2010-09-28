@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/squeak/!svn/ver/2148/trunk/platforms/Mac%20OS/vm
+END
+sqMacImageIO.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/squeak/!svn/ver/1966/trunk/platforms/Mac%20OS/vm/sqMacImageIO.c
+END
+sqMacWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/squeak/!svn/ver/1344/trunk/platforms/Mac%20OS/vm/sqMacWindow.h
+END
+sqMacMemory.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/squeak/!svn/ver/1708/trunk/platforms/Mac%20OS/vm/sqMacMemory.h
+END
+sqMacUIConstants.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/squeak/!svn/ver/1344/trunk/platforms/Mac%20OS/vm/sqMacUIConstants.h
+END
+sqMacImageIO.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/squeak/!svn/ver/1344/trunk/platforms/Mac%20OS/vm/sqMacImageIO.h
+END
+NSCursorWrappers.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/squeak/!svn/ver/1663/trunk/platforms/Mac%20OS/vm/NSCursorWrappers.h
+END
+sqNamedPrims.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/squeak/!svn/ver/1708/trunk/platforms/Mac%20OS/vm/sqNamedPrims.h
+END
+sqMacUIAppleEvents.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/squeak/!svn/ver/1615/trunk/platforms/Mac%20OS/vm/sqMacUIAppleEvents.c
+END
+sqMacMain.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/squeak/!svn/ver/2144/trunk/platforms/Mac%20OS/vm/sqMacMain.c
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/squeak/!svn/ver/1660/trunk/platforms/Mac%20OS/vm/config.h
+END
+NSCursorWrappers.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/squeak/!svn/ver/2144/trunk/platforms/Mac%20OS/vm/NSCursorWrappers.m
+END
+sqMacUIAppleEvents.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/squeak/!svn/ver/1344/trunk/platforms/Mac%20OS/vm/sqMacUIAppleEvents.h
+END
+sqMacMain.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/squeak/!svn/ver/1925/trunk/platforms/Mac%20OS/vm/sqMacMain.h
+END
+sqMacUIEventsUniversal.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/squeak/!svn/ver/2144/trunk/platforms/Mac%20OS/vm/sqMacUIEventsUniversal.c
+END
+sqMacFileLogic.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/squeak/!svn/ver/1289/trunk/platforms/Mac%20OS/vm/sqMacFileLogic.c
+END
+sqMacUnixExternalPrims.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/squeak/!svn/ver/1959/trunk/platforms/Mac%20OS/vm/sqMacUnixExternalPrims.c
+END
+sqMacFileLogic.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/squeak/!svn/ver/1344/trunk/platforms/Mac%20OS/vm/sqMacFileLogic.h
+END
+sqMacUnixCommandLineInterface.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/1925/trunk/platforms/Mac%20OS/vm/sqMacUnixCommandLineInterface.c
+END
+sqPlatformSpecific.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/squeak/!svn/ver/1966/trunk/platforms/Mac%20OS/vm/sqPlatformSpecific.h
+END
+sqMacUIMenuBarUniversal.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/squeak/!svn/ver/1344/trunk/platforms/Mac%20OS/vm/sqMacUIMenuBarUniversal.c
+END
+sqMacUnixCommandLineInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/1173/trunk/platforms/Mac%20OS/vm/sqMacUnixCommandLineInterface.h
+END
+osExports.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/squeak/!svn/ver/2144/trunk/platforms/Mac%20OS/vm/osExports.c
+END
+sqMacEncoding.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/squeak/!svn/ver/1916/trunk/platforms/Mac%20OS/vm/sqMacEncoding.c
+END
+sqMacUIMenuBar.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/squeak/!svn/ver/1238/trunk/platforms/Mac%20OS/vm/sqMacUIMenuBar.c
+END
+sqConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/squeak/!svn/ver/1671/trunk/platforms/Mac%20OS/vm/sqConfig.h
+END
+sqMacEncoding.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/squeak/!svn/ver/1708/trunk/platforms/Mac%20OS/vm/sqMacEncoding.h
+END
+sqMacUIMenuBar.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/squeak/!svn/ver/1344/trunk/platforms/Mac%20OS/vm/sqMacUIMenuBar.h
+END
+sqMacExternalPrims.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/squeak/!svn/ver/1311/trunk/platforms/Mac%20OS/vm/sqMacExternalPrims.c
+END
+sqMacNSPluginUILogic2.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/squeak/!svn/ver/2144/trunk/platforms/Mac%20OS/vm/sqMacNSPluginUILogic2.c
+END
+sqMacUIClipBoard.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/squeak/!svn/ver/1985/trunk/platforms/Mac%20OS/vm/sqMacUIClipBoard.c
+END
+sqMacTime.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/squeak/!svn/ver/1708/trunk/platforms/Mac%20OS/vm/sqMacTime.c
+END
+sqMacWindowUniversal.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/squeak/!svn/ver/1925/trunk/platforms/Mac%20OS/vm/sqMacWindowUniversal.c
+END
+sqMacUIEvents.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/squeak/!svn/ver/1301/trunk/platforms/Mac%20OS/vm/sqMacUIEvents.c
+END
+sqMacUIClipBoard.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/squeak/!svn/ver/1985/trunk/platforms/Mac%20OS/vm/sqMacUIClipBoard.h
+END
+sqMacNSPluginUILogic2.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/squeak/!svn/ver/1708/trunk/platforms/Mac%20OS/vm/sqMacNSPluginUILogic2.h
+END
+sqMacExternalPrims.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/squeak/!svn/ver/1334/trunk/platforms/Mac%20OS/vm/sqMacExternalPrims.h
+END
+sqMacTime.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/squeak/!svn/ver/1344/trunk/platforms/Mac%20OS/vm/sqMacTime.h
+END
+sqMacUIEvents.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/squeak/!svn/ver/1708/trunk/platforms/Mac%20OS/vm/sqMacUIEvents.h
+END
+sqMacWindow.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/squeak/!svn/ver/1296/trunk/platforms/Mac%20OS/vm/sqMacWindow.c
+END
+sqMacMemory.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/squeak/!svn/ver/1966/trunk/platforms/Mac%20OS/vm/sqMacMemory.c
+END

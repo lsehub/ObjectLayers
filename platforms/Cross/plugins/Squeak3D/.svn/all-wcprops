@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/Squeak3D
+END
+b3dTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/Squeak3D/b3dTypes.h
+END
+b3dAlloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/Squeak3D/b3dAlloc.c
+END
+b3dDraw.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/Squeak3D/b3dDraw.c
+END
+b3dAlloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/Squeak3D/b3dAlloc.h
+END
+b3dInit.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/Squeak3D/b3dInit.c
+END
+b3d.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/Squeak3D/b3d.h
+END
+b3dMain.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/Squeak3D/b3dMain.c
+END
+b3dRemap.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/Squeak3D/b3dRemap.c
+END

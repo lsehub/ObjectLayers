@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/squeak/!svn/ver/1154/trunk/platforms/unix/misc
+END
+AioPluginV1-1.sar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/squeak/!svn/ver/1080/trunk/platforms/unix/misc/AioPluginV1-1.sar
+END
+VMMaker-tpr.14.mcz
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/squeak/!svn/ver/1154/trunk/platforms/unix/misc/VMMaker-tpr.14.mcz
+END
+GLXUnix-ikp.2.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/squeak/!svn/ver/978/trunk/platforms/unix/misc/GLXUnix-ikp.2.cs
+END
+XDisplayControlPluginV1-0.sar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/squeak/!svn/ver/1080/trunk/platforms/unix/misc/XDisplayControlPluginV1-0.sar
+END
+VMM38b4-64bit-image1-ikp.1.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/squeak/!svn/ver/1154/trunk/platforms/unix/misc/VMM38b4-64bit-image1-ikp.1.cs
+END
+VMM38b4-64bit-vm1-ikp.1.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/squeak/!svn/ver/1154/trunk/platforms/unix/misc/VMM38b4-64bit-vm1-ikp.1.cs
+END
+00_README
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/squeak/!svn/ver/1154/trunk/platforms/unix/misc/00_README
+END
+OSProcessPluginV3-3.sar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/squeak/!svn/ver/1080/trunk/platforms/unix/misc/OSProcessPluginV3-3.sar
+END
+VMM38b4-64bit-image2-ikp.1.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/squeak/!svn/ver/1154/trunk/platforms/unix/misc/VMM38b4-64bit-image2-ikp.1.cs
+END
+System-Tracing.2.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/squeak/!svn/ver/1154/trunk/platforms/unix/misc/System-Tracing.2.cs
+END
+VMM38b4-64bit-vm2-ikp.2.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/squeak/!svn/ver/1154/trunk/platforms/unix/misc/VMM38b4-64bit-vm2-ikp.2.cs
+END

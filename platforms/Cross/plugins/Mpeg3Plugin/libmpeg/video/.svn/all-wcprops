@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/squeak/!svn/ver/1364/trunk/platforms/Cross/plugins/Mpeg3Plugin/libmpeg/video
+END
+mmxidct_gasp.s
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/Mpeg3Plugin/libmpeg/video/mmxidct_gasp.s
+END
+macroblocks.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/Mpeg3Plugin/libmpeg/video/macroblocks.c
+END
+slice.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/squeak/!svn/ver/365/trunk/platforms/Cross/plugins/Mpeg3Plugin/libmpeg/video/slice.c
+END
+output.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/squeak/!svn/ver/1364/trunk/platforms/Cross/plugins/Mpeg3Plugin/libmpeg/video/output.c
+END
+mmxtest.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/Mpeg3Plugin/libmpeg/video/mmxtest.c
+END
+mpeg3video.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/Mpeg3Plugin/libmpeg/video/mpeg3video.c
+END
+slice.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/squeak/!svn/ver/64/trunk/platforms/Cross/plugins/Mpeg3Plugin/libmpeg/video/slice.h
+END
+motion.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/squeak/!svn/ver/1095/trunk/platforms/Cross/plugins/Mpeg3Plugin/libmpeg/video/motion.c
+END
+mmxidct_orig.S
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/Mpeg3Plugin/libmpeg/video/mmxidct_orig.S
+END
+mpeg3video.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/squeak/!svn/ver/508/trunk/platforms/Cross/plugins/Mpeg3Plugin/libmpeg/video/mpeg3video.h
+END
+reconmmx.s
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/Mpeg3Plugin/libmpeg/video/reconmmx.s
+END
+layerdata.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/Mpeg3Plugin/libmpeg/video/layerdata.h
+END
+headers.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/Mpeg3Plugin/libmpeg/video/headers.c
+END
+getpicture.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/Mpeg3Plugin/libmpeg/video/getpicture.c
+END
+reconstruct.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/squeak/!svn/ver/601/trunk/platforms/Cross/plugins/Mpeg3Plugin/libmpeg/video/reconstruct.c
+END
+worksheet.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/Mpeg3Plugin/libmpeg/video/worksheet.c
+END
+mpeg3videoprotos.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/Mpeg3Plugin/libmpeg/video/mpeg3videoprotos.h
+END
+idct.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/squeak/!svn/ver/365/trunk/platforms/Cross/plugins/Mpeg3Plugin/libmpeg/video/idct.c
+END
+vlc.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/Mpeg3Plugin/libmpeg/video/vlc.c
+END
+mmxidct.S
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/Mpeg3Plugin/libmpeg/video/mmxidct.S
+END
+seek.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/Mpeg3Plugin/libmpeg/video/seek.c
+END
+idct.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/Mpeg3Plugin/libmpeg/video/idct.h
+END
+vlc.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/Mpeg3Plugin/libmpeg/video/vlc.h
+END

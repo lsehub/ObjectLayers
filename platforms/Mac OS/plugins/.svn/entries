@@ -1,0 +1,139 @@
+10
+
+dir
+2148
+http://squeakvm.org/svn/squeak/trunk/platforms/Mac%20OS/plugins
+http://squeakvm.org/svn/squeak
+
+
+
+2009-09-27T21:39:59.624609Z
+2144
+johnmci
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fa1542d4-bde8-0310-ad64-8ed1123d492a
+
+SerialExtendedPlugin
+dir
+
+JPEGReadWriter2Plugin
+dir
+
+SparklePlugin
+dir
+
+SecurityPlugin
+dir
+
+Mpeg3Plugin
+dir
+
+InternetConfigPlugin
+dir
+
+SerialPlugin
+dir
+
+CroquetPlugin
+dir
+
+ServicesPlugin
+dir
+
+PrintJobPlugin
+dir
+
+SqueakObjectiveCPlugin
+dir
+
+SoundPlugin
+dir
+
+IA32ABI
+dir
+
+LocalePlugin
+dir
+
+ExuperyPlugin
+dir
+
+ClipboardExtended
+dir
+
+KedamaPlugin2
+dir
+
+DropPlugin
+dir
+
+CurlPlugin
+dir
+
+HostWindowPlugin
+dir
+
+UUIDPlugin
+dir
+
+MacMenubarPlugin
+dir
+
+FileCopyPlugin
+dir
+
+SqueakFFIPrims
+dir
+
+SpellingPlugin
+dir
+
+B3DAcceleratorPlugin
+dir
+
+OpenALPlugin
+dir
+
+FilePlugin
+dir
+
+FloatMathPlugin
+dir
+
+KedamaPlugin
+dir
+
+TestOSAPlugin
+dir
+
+MIDIPlugin
+dir
+
+UnixOSProcessPlugin
+dir
+
+AsynchFilePlugin
+dir
+
+SocketPlugin
+dir
+
+QuicktimePlugin
+dir
+
+JoystickTabletPlugin
+dir
+

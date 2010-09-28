@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/squeak/!svn/ver/2127/trunk/platforms/unix/vm-display-X11
+END
+sqUnixMozilla.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/squeak/!svn/ver/1762/trunk/platforms/unix/vm-display-X11/sqUnixMozilla.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/squeak/!svn/ver/1571/trunk/platforms/unix/vm-display-X11/Makefile.in
+END
+sqUnixX11.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/squeak/!svn/ver/2127/trunk/platforms/unix/vm-display-X11/sqUnixX11.c
+END
+config.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/squeak/!svn/ver/2084/trunk/platforms/unix/vm-display-X11/config.cmake
+END
+sqUnixOpenGL.X11
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/squeak/!svn/ver/620/trunk/platforms/unix/vm-display-X11/sqUnixOpenGL.X11
+END
+acinclude.m4
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/squeak/!svn/ver/1762/trunk/platforms/unix/vm-display-X11/acinclude.m4
+END
+sqUnixXdnd.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/squeak/!svn/ver/2072/trunk/platforms/unix/vm-display-X11/sqUnixXdnd.c
+END
+build.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/squeak/!svn/ver/2084/trunk/platforms/unix/vm-display-X11/build.cmake
+END

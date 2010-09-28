@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/squeak/!svn/ver/1391/trunk/platforms/Cross/plugins/Mpeg3Plugin
+END
+Mpeg3Plugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/squeak/!svn/ver/71/trunk/platforms/Cross/plugins/Mpeg3Plugin/Mpeg3Plugin.h
+END
+examplesSqueak.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/Mpeg3Plugin/examplesSqueak.txt
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/Mpeg3Plugin/COPYING
+END
+JMMMpegPluginBuffer.1.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/squeak/!svn/ver/1338/trunk/platforms/Cross/plugins/Mpeg3Plugin/JMMMpegPluginBuffer.1.cs
+END
+JMMMpegBuffer.1.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/squeak/!svn/ver/1338/trunk/platforms/Cross/plugins/Mpeg3Plugin/JMMMpegBuffer.1.cs
+END
+JMMMpegBufferTest.1.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/squeak/!svn/ver/1338/trunk/platforms/Cross/plugins/Mpeg3Plugin/JMMMpegBufferTest.1.cs
+END
+JMMMpegPluginaddBufferOffsetting.1.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/squeak/!svn/ver/1391/trunk/platforms/Cross/plugins/Mpeg3Plugin/JMMMpegPluginaddBufferOffsetting.1.cs
+END
+JMMMpegaddBufferOffsetting.1.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/squeak/!svn/ver/1391/trunk/platforms/Cross/plugins/Mpeg3Plugin/JMMMpegaddBufferOffsetting.1.cs
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/Mpeg3Plugin/README
+END

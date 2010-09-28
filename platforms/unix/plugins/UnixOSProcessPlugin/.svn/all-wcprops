@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/squeak/!svn/ver/2095/trunk/platforms/unix/plugins/UnixOSProcessPlugin
+END
+config.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/squeak/!svn/ver/2095/trunk/platforms/unix/plugins/UnixOSProcessPlugin/config.cmake
+END
+Makefile.inc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/squeak/!svn/ver/1461/trunk/platforms/unix/plugins/UnixOSProcessPlugin/Makefile.inc
+END
+acinclude.m4
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/squeak/!svn/ver/1593/trunk/platforms/unix/plugins/UnixOSProcessPlugin/acinclude.m4
+END
+build.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/squeak/!svn/ver/2084/trunk/platforms/unix/plugins/UnixOSProcessPlugin/build.cmake
+END

@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/squeak/!svn/ver/2071/trunk/platforms/unix/config
+END
+ltcf-c.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/squeak/!svn/ver/620/trunk/platforms/unix/config/ltcf-c.sh
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/squeak/!svn/ver/2022/trunk/platforms/unix/config/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/squeak/!svn/ver/1571/trunk/platforms/unix/config/Makefile.in
+END
+Makefile.install
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/squeak/!svn/ver/1535/trunk/platforms/unix/config/Makefile.install
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/squeak/!svn/ver/620/trunk/platforms/unix/config/config.guess
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/squeak/!svn/ver/620/trunk/platforms/unix/config/ltmain.sh
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/squeak/!svn/ver/620/trunk/platforms/unix/config/config.sub
+END
+inisqueak.in
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/squeak/!svn/ver/1571/trunk/platforms/unix/config/inisqueak.in
+END
+relpath
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/squeak/!svn/ver/1571/trunk/platforms/unix/config/relpath
+END
+gnuify
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/squeak/!svn/ver/1571/trunk/platforms/unix/config/gnuify
+END
+verstamp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/squeak/!svn/ver/620/trunk/platforms/unix/config/verstamp
+END
+mkconfig.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/squeak/!svn/ver/620/trunk/platforms/unix/config/mkconfig.in
+END
+mkman
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/squeak/!svn/ver/620/trunk/platforms/unix/config/mkman
+END
+Makefile.plg.in
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/squeak/!svn/ver/1571/trunk/platforms/unix/config/Makefile.plg.in
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/squeak/!svn/ver/2011/trunk/platforms/unix/config/configure.ac
+END
+vmm.config
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/squeak/!svn/ver/1112/trunk/platforms/unix/config/vmm.config
+END
+mkacinc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/squeak/!svn/ver/620/trunk/platforms/unix/config/mkacinc
+END
+ltconfig
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/squeak/!svn/ver/620/trunk/platforms/unix/config/ltconfig
+END
+version.stamp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/squeak/!svn/ver/620/trunk/platforms/unix/config/version.stamp
+END
+uninstall
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/squeak/!svn/ver/620/trunk/platforms/unix/config/uninstall
+END
+make.prg.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/squeak/!svn/ver/620/trunk/platforms/unix/config/make.prg.in
+END
+make.int.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/squeak/!svn/ver/620/trunk/platforms/unix/config/make.int.in
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/squeak/!svn/ver/620/trunk/platforms/unix/config/Makefile
+END
+mkinstalldirs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/squeak/!svn/ver/990/trunk/platforms/unix/config/mkinstalldirs
+END
+make.cfg.in
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/squeak/!svn/ver/2009/trunk/platforms/unix/config/make.cfg.in
+END
+make.ext.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/squeak/!svn/ver/626/trunk/platforms/unix/config/make.ext.in
+END
+version
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/squeak/!svn/ver/620/trunk/platforms/unix/config/version
+END
+Squeak.spec.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/squeak/!svn/ver/1571/trunk/platforms/unix/config/Squeak.spec.in
+END
+mkmf
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/squeak/!svn/ver/1571/trunk/platforms/unix/config/mkmf
+END
+build
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/squeak/!svn/ver/620/trunk/platforms/unix/config/build
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/squeak/!svn/ver/2071/trunk/platforms/unix/config/config.h.in
+END
+mktargets
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/squeak/!svn/ver/1571/trunk/platforms/unix/config/mktargets
+END
+acinclude.m4
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/squeak/!svn/ver/2017/trunk/platforms/unix/config/acinclude.m4
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/squeak/!svn/ver/2022/trunk/platforms/unix/config/aclocal.m4
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/squeak/!svn/ver/620/trunk/platforms/unix/config/install-sh
+END

@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/squeak/!svn/ver/2126/trunk/platforms/win32/vm
+END
+sqWin32Window.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/squeak/!svn/ver/2124/trunk/platforms/win32/vm/sqWin32Window.c
+END
+sqWin32HandleTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/squeak/!svn/ver/1287/trunk/platforms/win32/vm/sqWin32HandleTable.h
+END
+sqGnu.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/squeak/!svn/ver/384/trunk/platforms/win32/vm/sqGnu.h
+END
+sqWin32Intel.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/squeak/!svn/ver/1978/trunk/platforms/win32/vm/sqWin32Intel.c
+END
+sqPlatformSpecific.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/squeak/!svn/ver/1384/trunk/platforms/win32/vm/sqPlatformSpecific.h
+END
+sqWin32Prefs.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/squeak/!svn/ver/1978/trunk/platforms/win32/vm/sqWin32Prefs.c
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/squeak/!svn/ver/1224/trunk/platforms/win32/vm/config.h
+END
+sqWin32.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/squeak/!svn/ver/2126/trunk/platforms/win32/vm/sqWin32.h
+END
+sqWin32Prefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/squeak/!svn/ver/1509/trunk/platforms/win32/vm/sqWin32Prefs.h
+END
+sqConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/squeak/!svn/ver/2/trunk/platforms/win32/vm/sqConfig.h
+END
+sqWin32GUID.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/squeak/!svn/ver/536/trunk/platforms/win32/vm/sqWin32GUID.c
+END
+sqWin32DirectInput.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/squeak/!svn/ver/789/trunk/platforms/win32/vm/sqWin32DirectInput.c
+END
+sqWin32Alloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/squeak/!svn/ver/1603/trunk/platforms/win32/vm/sqWin32Alloc.c
+END
+sqWin32PluginSupport.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/squeak/!svn/ver/342/trunk/platforms/win32/vm/sqWin32PluginSupport.c
+END
+sqWin32Args.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/squeak/!svn/ver/1703/trunk/platforms/win32/vm/sqWin32Args.c
+END
+sqWin32ExternalPrims.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/squeak/!svn/ver/1224/trunk/platforms/win32/vm/sqWin32ExternalPrims.c
+END
+version.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/squeak/!svn/ver/1381/trunk/platforms/win32/vm/version.c
+END
+sqWin32Alloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/squeak/!svn/ver/1603/trunk/platforms/win32/vm/sqWin32Alloc.h
+END
+sqWin32Service.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/squeak/!svn/ver/342/trunk/platforms/win32/vm/sqWin32Service.c
+END
+sqWin32Stubs.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/squeak/!svn/ver/2/trunk/platforms/win32/vm/sqWin32Stubs.c
+END
+sqWin32Utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/squeak/!svn/ver/1394/trunk/platforms/win32/vm/sqWin32Utils.c
+END
+sqWin32Args.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/squeak/!svn/ver/99/trunk/platforms/win32/vm/sqWin32Args.h
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/squeak/!svn/ver/1381/trunk/platforms/win32/vm/version.h
+END
+sqWin32Exports.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/squeak/!svn/ver/430/trunk/platforms/win32/vm/sqWin32Exports.c
+END
+sqWin32Directory.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/squeak/!svn/ver/1696/trunk/platforms/win32/vm/sqWin32Directory.c
+END

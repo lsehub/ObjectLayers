@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/squeak/!svn/ver/2101/trunk/platforms/unix/plugins/UUIDPlugin
+END
+sqUnixUUID.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/squeak/!svn/ver/2095/trunk/platforms/unix/plugins/UUIDPlugin/sqUnixUUID.c
+END
+config.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/squeak/!svn/ver/2101/trunk/platforms/unix/plugins/UUIDPlugin/config.cmake
+END
+Makefile.inc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/squeak/!svn/ver/1490/trunk/platforms/unix/plugins/UUIDPlugin/Makefile.inc
+END
+acinclude.m4
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/squeak/!svn/ver/1495/trunk/platforms/unix/plugins/UUIDPlugin/acinclude.m4
+END

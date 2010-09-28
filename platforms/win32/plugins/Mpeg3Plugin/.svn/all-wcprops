@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/squeak/!svn/ver/1529/trunk/platforms/win32/plugins/Mpeg3Plugin
+END
+sqOpenFile.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/squeak/!svn/ver/1382/trunk/platforms/win32/plugins/Mpeg3Plugin/sqOpenFile.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/squeak/!svn/ver/1529/trunk/platforms/win32/plugins/Mpeg3Plugin/Makefile
+END
+Makefile.win32
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/squeak/!svn/ver/594/trunk/platforms/win32/plugins/Mpeg3Plugin/Makefile.win32
+END

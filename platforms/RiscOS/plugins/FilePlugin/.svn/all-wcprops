@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/squeak/!svn/ver/1443/trunk/platforms/RiscOS/plugins/FilePlugin
+END
+sqFilePluginBasicPrims.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/squeak/!svn/ver/1443/trunk/platforms/RiscOS/plugins/FilePlugin/sqFilePluginBasicPrims.c
+END
+sqRPCDirectory.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/squeak/!svn/ver/1443/trunk/platforms/RiscOS/plugins/FilePlugin/sqRPCDirectory.c
+END

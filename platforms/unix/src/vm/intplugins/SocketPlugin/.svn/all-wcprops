@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/squeak/!svn/ver/2106/trunk/platforms/unix/src/vm/intplugins/SocketPlugin
+END
+SocketPlugin.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/squeak/!svn/ver/2106/trunk/platforms/unix/src/vm/intplugins/SocketPlugin/SocketPlugin.c
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/squeak/!svn/ver/1932/trunk/platforms/Cross/plugins/GStreamerPlugin
+END
+squeakAudioVideoPipeLineSignalInterface.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/squeak/!svn/ver/1932/trunk/platforms/Cross/plugins/GStreamerPlugin/squeakAudioVideoPipeLineSignalInterface.c
+END
+squeakAudioVideoPipeLineSignalInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/squeak/!svn/ver/1932/trunk/platforms/Cross/plugins/GStreamerPlugin/squeakAudioVideoPipeLineSignalInterface.h
+END

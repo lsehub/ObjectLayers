@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/squeak/!svn/ver/1444/trunk/platforms/RiscOS/vm
+END
+sqRPCVersion.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/squeak/!svn/ver/1443/trunk/platforms/RiscOS/vm/sqRPCVersion.c
+END
+sqRPCWindows.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/squeak/!svn/ver/1443/trunk/platforms/RiscOS/vm/sqRPCWindows.c
+END
+sqPlatformSpecific.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/squeak/!svn/ver/1443/trunk/platforms/RiscOS/vm/sqPlatformSpecific.h
+END
+sqRPCExternalPrims.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/squeak/!svn/ver/1443/trunk/platforms/RiscOS/vm/sqRPCExternalPrims.c
+END
+osExports.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/squeak/!svn/ver/1443/trunk/platforms/RiscOS/vm/osExports.c
+END
+sqRPCClipboard.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/squeak/!svn/ver/1443/trunk/platforms/RiscOS/vm/sqRPCClipboard.c
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/squeak/!svn/ver/1443/trunk/platforms/RiscOS/vm/config.h
+END
+sqRPCEvents.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/squeak/!svn/ver/1443/trunk/platforms/RiscOS/vm/sqRPCEvents.c
+END
+sqConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/squeak/!svn/ver/1443/trunk/platforms/RiscOS/vm/sqConfig.h
+END
+sqArguments.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/squeak/!svn/ver/1443/trunk/platforms/RiscOS/vm/sqArguments.h
+END
+fperrors.s
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/squeak/!svn/ver/1158/trunk/platforms/RiscOS/vm/fperrors.s
+END
+sqRPCSyscall.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/squeak/!svn/ver/1443/trunk/platforms/RiscOS/vm/sqRPCSyscall.c
+END
+sqArgument.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/squeak/!svn/ver/1443/trunk/platforms/RiscOS/vm/sqArgument.c
+END
+sqRPCFormPrint.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/squeak/!svn/ver/1443/trunk/platforms/RiscOS/vm/sqRPCFormPrint.c
+END
+sqRPCMain.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/squeak/!svn/ver/1444/trunk/platforms/RiscOS/vm/sqRPCMain.c
+END

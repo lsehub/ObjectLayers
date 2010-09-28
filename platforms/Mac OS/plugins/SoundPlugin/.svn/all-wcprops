@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/squeak/!svn/ver/1996/trunk/platforms/Mac%20OS/plugins/SoundPlugin
+END
+sqUnixSoundMacOSXJMM.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/squeak/!svn/ver/1996/trunk/platforms/Mac%20OS/plugins/SoundPlugin/sqUnixSoundMacOSXJMM.c
+END
+sqMacUnixInterfaceSound.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/squeak/!svn/ver/949/trunk/platforms/Mac%20OS/plugins/SoundPlugin/sqMacUnixInterfaceSound.c
+END
+sqMacUnixInterfaceSound.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/squeak/!svn/ver/949/trunk/platforms/Mac%20OS/plugins/SoundPlugin/sqMacUnixInterfaceSound.h
+END
+sqUnixSoundDebug.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/squeak/!svn/ver/1708/trunk/platforms/Mac%20OS/plugins/SoundPlugin/sqUnixSoundDebug.h
+END
+sqMacSound.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/squeak/!svn/ver/905/trunk/platforms/Mac%20OS/plugins/SoundPlugin/sqMacSound.c
+END

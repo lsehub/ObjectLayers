@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/squeak/!svn/ver/2130/trunk/platforms/unix/plugins/SqueakFFIPrims
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/squeak/!svn/ver/620/trunk/platforms/unix/plugins/SqueakFFIPrims/Makefile.in
+END
+ppc-darwin-asm.S
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/squeak/!svn/ver/1571/trunk/platforms/unix/plugins/SqueakFFIPrims/ppc-darwin-asm.S
+END
+ffi-test-main.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/2072/trunk/platforms/unix/plugins/SqueakFFIPrims/ffi-test-main.c
+END
+config.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/squeak/!svn/ver/2122/trunk/platforms/unix/plugins/SqueakFFIPrims/config.cmake
+END
+ppc-darwin.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/squeak/!svn/ver/2072/trunk/platforms/unix/plugins/SqueakFFIPrims/ppc-darwin.c
+END
+ffi-test-sq.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/squeak/!svn/ver/620/trunk/platforms/unix/plugins/SqueakFFIPrims/ffi-test-sq.h
+END
+00README
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/squeak/!svn/ver/1029/trunk/platforms/unix/plugins/SqueakFFIPrims/00README
+END
+any-libffi-asm.S
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/620/trunk/platforms/unix/plugins/SqueakFFIPrims/any-libffi-asm.S
+END
+any-libffi.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/squeak/!svn/ver/2096/trunk/platforms/unix/plugins/SqueakFFIPrims/any-libffi.c
+END
+ffi-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/squeak/!svn/ver/2072/trunk/platforms/unix/plugins/SqueakFFIPrims/ffi-test.c
+END
+ppc-sysv-asm.S
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/squeak/!svn/ver/1571/trunk/platforms/unix/plugins/SqueakFFIPrims/ppc-sysv-asm.S
+END
+ppc-sysv.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/squeak/!svn/ver/2072/trunk/platforms/unix/plugins/SqueakFFIPrims/ppc-sysv.c
+END
+ppc-global.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/squeak/!svn/ver/620/trunk/platforms/unix/plugins/SqueakFFIPrims/ppc-global.h
+END
+acinclude.m4
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/squeak/!svn/ver/653/trunk/platforms/unix/plugins/SqueakFFIPrims/acinclude.m4
+END
+x86-sysv-asm.S
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/squeak/!svn/ver/2130/trunk/platforms/unix/plugins/SqueakFFIPrims/x86-sysv-asm.S
+END
+ffi-test.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/squeak/!svn/ver/620/trunk/platforms/unix/plugins/SqueakFFIPrims/ffi-test.h
+END
+ffi-config
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/squeak/!svn/ver/620/trunk/platforms/unix/plugins/SqueakFFIPrims/ffi-config
+END
+x86-sysv.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/squeak/!svn/ver/2072/trunk/platforms/unix/plugins/SqueakFFIPrims/x86-sysv.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/squeak/!svn/ver/620/trunk/platforms/unix/plugins/SqueakFFIPrims/Makefile
+END
+build.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/squeak/!svn/ver/2084/trunk/platforms/unix/plugins/SqueakFFIPrims/build.cmake
+END

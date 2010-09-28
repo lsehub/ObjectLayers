@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/squeak/!svn/ver/786/trunk/platforms/win32/plugins/SoundPlugin
+END
+sqWin32Sound.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/squeak/!svn/ver/786/trunk/platforms/win32/plugins/SoundPlugin/sqWin32Sound.c
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/squeak/!svn/ver/1708/trunk/platforms/Mac%20OS/plugins/B3DAcceleratorPlugin
+END
+sqMacOpenGL.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/squeak/!svn/ver/1671/trunk/platforms/Mac%20OS/plugins/B3DAcceleratorPlugin/sqMacOpenGL.h
+END
+sqMacOpenGLInfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/squeak/!svn/ver/1708/trunk/platforms/Mac%20OS/plugins/B3DAcceleratorPlugin/sqMacOpenGLInfo.c
+END
+sqMacOpenGL.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/squeak/!svn/ver/1708/trunk/platforms/Mac%20OS/plugins/B3DAcceleratorPlugin/sqMacOpenGL.c
+END

@@ -1,0 +1,377 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/squeak/!svn/ver/177/trunk/platforms/Cross/plugins/JPEGReadWriter2Plugin
+END
+jddctmgr.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/JPEGReadWriter2Plugin/jddctmgr.c
+END
+jdatadst.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/JPEGReadWriter2Plugin/jdatadst.c
+END
+jerror.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/JPEGReadWriter2Plugin/jerror.c
+END
+jchuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/JPEGReadWriter2Plugin/jchuff.c
+END
+jdtrans.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/JPEGReadWriter2Plugin/jdtrans.c
+END
+jdhuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/JPEGReadWriter2Plugin/jdhuff.c
+END
+jfdctfst.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/JPEGReadWriter2Plugin/jfdctfst.c
+END
+jcmaster.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/JPEGReadWriter2Plugin/jcmaster.c
+END
+jerror.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/JPEGReadWriter2Plugin/jerror.h
+END
+jdmaster.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/JPEGReadWriter2Plugin/jdmaster.c
+END
+jchuff.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/JPEGReadWriter2Plugin/jchuff.h
+END
+jidctfst.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/JPEGReadWriter2Plugin/jidctfst.c
+END
+jmemnobs.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/JPEGReadWriter2Plugin/jmemnobs.c
+END
+jdhuff.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/JPEGReadWriter2Plugin/jdhuff.h
+END
+jcparam.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/JPEGReadWriter2Plugin/jcparam.c
+END
+jcinit.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/JPEGReadWriter2Plugin/jcinit.c
+END
+jquant1.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/JPEGReadWriter2Plugin/jquant1.c
+END
+JPEGReadWriter2Plugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/squeak/!svn/ver/137/trunk/platforms/Cross/plugins/JPEGReadWriter2Plugin/JPEGReadWriter2Plugin.h
+END
+jquant2.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/JPEGReadWriter2Plugin/jquant2.c
+END
+jcphuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/JPEGReadWriter2Plugin/jcphuff.c
+END
+jdct.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/JPEGReadWriter2Plugin/jdct.h
+END
+jmemdatasrc.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/squeak/!svn/ver/52/trunk/platforms/Cross/plugins/JPEGReadWriter2Plugin/jmemdatasrc.c
+END
+jdatasrc.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/JPEGReadWriter2Plugin/jdatasrc.c
+END
+jccolor.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/JPEGReadWriter2Plugin/jccolor.c
+END
+jcsample.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/JPEGReadWriter2Plugin/jcsample.c
+END
+jcmarker.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/JPEGReadWriter2Plugin/jcmarker.c
+END
+jmemmgr.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/JPEGReadWriter2Plugin/jmemmgr.c
+END
+jdmarker.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/JPEGReadWriter2Plugin/jdmarker.c
+END
+jdsample.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/JPEGReadWriter2Plugin/jdsample.c
+END
+jfdctflt.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/JPEGReadWriter2Plugin/jfdctflt.c
+END
+jcapistd.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/JPEGReadWriter2Plugin/jcapistd.c
+END
+jmorecfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/JPEGReadWriter2Plugin/jmorecfg.h
+END
+jdapistd.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/JPEGReadWriter2Plugin/jdapistd.c
+END
+jinclude.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/JPEGReadWriter2Plugin/jinclude.h
+END
+jidctflt.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/JPEGReadWriter2Plugin/jidctflt.c
+END
+jctrans.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/JPEGReadWriter2Plugin/jctrans.c
+END
+jversion.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/JPEGReadWriter2Plugin/jversion.h
+END
+jfdctint.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/JPEGReadWriter2Plugin/jfdctint.c
+END
+jpegint.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/JPEGReadWriter2Plugin/jpegint.h
+END
+jidctint.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/JPEGReadWriter2Plugin/jidctint.c
+END
+jcprepct.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/JPEGReadWriter2Plugin/jcprepct.c
+END
+jutils.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/JPEGReadWriter2Plugin/jutils.c
+END
+jdinput.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/JPEGReadWriter2Plugin/jdinput.c
+END
+jdmerge.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/JPEGReadWriter2Plugin/jdmerge.c
+END
+jccoefct.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/JPEGReadWriter2Plugin/jccoefct.c
+END
+jdcoefct.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/JPEGReadWriter2Plugin/jdcoefct.c
+END
+jpeglib.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/JPEGReadWriter2Plugin/jpeglib.h
+END
+jcomapi.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/JPEGReadWriter2Plugin/jcomapi.c
+END
+jconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/squeak/!svn/ver/177/trunk/platforms/Cross/plugins/JPEGReadWriter2Plugin/jconfig.h
+END
+jdphuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/JPEGReadWriter2Plugin/jdphuff.c
+END
+jcmainct.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/JPEGReadWriter2Plugin/jcmainct.c
+END
+jidctred.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/JPEGReadWriter2Plugin/jidctred.c
+END
+Error.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/squeak/!svn/ver/72/trunk/platforms/Cross/plugins/JPEGReadWriter2Plugin/Error.c
+END
+jdmainct.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/JPEGReadWriter2Plugin/jdmainct.c
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/JPEGReadWriter2Plugin/ReadMe.txt
+END
+jcapimin.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/JPEGReadWriter2Plugin/jcapimin.c
+END
+jdpostct.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/JPEGReadWriter2Plugin/jdpostct.c
+END
+jdapimin.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/JPEGReadWriter2Plugin/jdapimin.c
+END
+jdcolor.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/JPEGReadWriter2Plugin/jdcolor.c
+END
+jmemsys.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/JPEGReadWriter2Plugin/jmemsys.h
+END
+jcdctmgr.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/JPEGReadWriter2Plugin/jcdctmgr.c
+END
+jmemdatadst.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/JPEGReadWriter2Plugin/jmemdatadst.c
+END

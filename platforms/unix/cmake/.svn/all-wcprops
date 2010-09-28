@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/squeak/!svn/ver/2147/trunk/platforms/unix/cmake
+END
+Utils.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/squeak/!svn/ver/2092/trunk/platforms/unix/cmake/Utils.cmake
+END
+PluginExternal.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/squeak/!svn/ver/2093/trunk/platforms/unix/cmake/PluginExternal.cmake
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/squeak/!svn/ver/2143/trunk/platforms/unix/cmake/configure
+END
+gnuify.awk
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/squeak/!svn/ver/2139/trunk/platforms/unix/cmake/gnuify.awk
+END
+testDoubleWordOrder.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/squeak/!svn/ver/2038/trunk/platforms/unix/cmake/testDoubleWordOrder.c
+END
+testLanginfoCodeset.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/squeak/!svn/ver/2038/trunk/platforms/unix/cmake/testLanginfoCodeset.c
+END
+testDoubleWordAlignment.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/squeak/!svn/ver/2038/trunk/platforms/unix/cmake/testDoubleWordAlignment.c
+END
+disabledPlugins.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/squeak/!svn/ver/2038/trunk/platforms/unix/cmake/disabledPlugins.c
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/squeak/!svn/ver/2038/trunk/platforms/unix/cmake/config.guess
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/squeak/!svn/ver/2038/trunk/platforms/unix/cmake/config.sub
+END
+Fixes.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/squeak/!svn/ver/2038/trunk/platforms/unix/cmake/Fixes.cmake
+END
+squeak.in
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/squeak/!svn/ver/2141/trunk/platforms/unix/cmake/squeak.in
+END
+Plugins.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/squeak/!svn/ver/2140/trunk/platforms/unix/cmake/Plugins.cmake
+END
+gnuify
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/squeak/!svn/ver/2139/trunk/platforms/unix/cmake/gnuify
+END
+verstamp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/squeak/!svn/ver/2038/trunk/platforms/unix/cmake/verstamp
+END
+squeak.sh.in
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/squeak/!svn/ver/2147/trunk/platforms/unix/cmake/squeak.sh.in
+END
+config.in
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/squeak/!svn/ver/2140/trunk/platforms/unix/cmake/config.in
+END
+PluginInternal.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/squeak/!svn/ver/2093/trunk/platforms/unix/cmake/PluginInternal.cmake
+END

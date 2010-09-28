@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/squeak/!svn/ver/2072/trunk/platforms/unix/vm-display-Quartz/zzz
+END
+Squeak.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/squeak/!svn/ver/2025/trunk/platforms/unix/vm-display-Quartz/zzz/Squeak.h
+END
+SqueakView.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/squeak/!svn/ver/2025/trunk/platforms/unix/vm-display-Quartz/zzz/SqueakView.m
+END
+Squeak.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/squeak/!svn/ver/2025/trunk/platforms/unix/vm-display-Quartz/zzz/Squeak.m
+END
+SqueakWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/squeak/!svn/ver/2025/trunk/platforms/unix/vm-display-Quartz/zzz/SqueakWindow.h
+END
+sqUnixQuartz.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/squeak/!svn/ver/2072/trunk/platforms/unix/vm-display-Quartz/zzz/sqUnixQuartz.m
+END
+SqueakView.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/squeak/!svn/ver/2025/trunk/platforms/unix/vm-display-Quartz/zzz/SqueakView.h
+END
+SqueakWindow.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/squeak/!svn/ver/2025/trunk/platforms/unix/vm-display-Quartz/zzz/SqueakWindow.m
+END

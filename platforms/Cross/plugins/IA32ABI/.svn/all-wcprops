@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/squeak/!svn/ver/1983/trunk/platforms/Cross/plugins/IA32ABI
+END
+ia32abi.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/squeak/!svn/ver/1963/trunk/platforms/Cross/plugins/IA32ABI/ia32abi.h
+END
+sqVirtualMachine.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/squeak/!svn/ver/1983/trunk/platforms/Cross/plugins/IA32ABI/sqVirtualMachine.c
+END
+ia32abicc.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/squeak/!svn/ver/1963/trunk/platforms/Cross/plugins/IA32ABI/ia32abicc.c
+END
+dabusinessppcPostLogicFloat.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/squeak/!svn/ver/1963/trunk/platforms/Cross/plugins/IA32ABI/dabusinessppcPostLogicFloat.h
+END
+sqVirtualMachine.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/squeak/!svn/ver/1983/trunk/platforms/Cross/plugins/IA32ABI/sqVirtualMachine.h
+END
+dabusiness.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/squeak/!svn/ver/1963/trunk/platforms/Cross/plugins/IA32ABI/dabusiness.h
+END
+AlienSUnitTestProcedures.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/squeak/!svn/ver/1964/trunk/platforms/Cross/plugins/IA32ABI/AlienSUnitTestProcedures.c
+END
+dabusinessppcPostLogicDouble.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/squeak/!svn/ver/1963/trunk/platforms/Cross/plugins/IA32ABI/dabusinessppcPostLogicDouble.h
+END
+dabusinessppc.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/squeak/!svn/ver/1964/trunk/platforms/Cross/plugins/IA32ABI/dabusinessppc.h
+END
+dabusinessPostLogic.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/1963/trunk/platforms/Cross/plugins/IA32ABI/dabusinessPostLogic.h
+END
+ppc32abicc.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/squeak/!svn/ver/1963/trunk/platforms/Cross/plugins/IA32ABI/ppc32abicc.c
+END
+sqMacFFI.s
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/squeak/!svn/ver/1962/trunk/platforms/Cross/plugins/IA32ABI/sqMacFFI.s
+END
+dabusinessppcPostLogicInteger.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/squeak/!svn/ver/1963/trunk/platforms/Cross/plugins/IA32ABI/dabusinessppcPostLogicInteger.h
+END
+AlienSUnitTestProcedures.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/squeak/!svn/ver/1964/trunk/platforms/Cross/plugins/IA32ABI/AlienSUnitTestProcedures.h
+END

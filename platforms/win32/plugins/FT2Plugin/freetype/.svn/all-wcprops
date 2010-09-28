@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/squeak/!svn/ver/1923/trunk/platforms/win32/plugins/FT2Plugin/freetype
+END
+ftcid.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/squeak/!svn/ver/1923/trunk/platforms/win32/plugins/FT2Plugin/freetype/ftcid.h
+END
+ftmac.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/squeak/!svn/ver/1923/trunk/platforms/win32/plugins/FT2Plugin/freetype/ftmac.h
+END
+ftoutln.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/squeak/!svn/ver/1923/trunk/platforms/win32/plugins/FT2Plugin/freetype/ftoutln.h
+END
+fttrigon.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/1923/trunk/platforms/win32/plugins/FT2Plugin/freetype/fttrigon.h
+END
+ftcache.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/squeak/!svn/ver/1923/trunk/platforms/win32/plugins/FT2Plugin/freetype/ftcache.h
+END
+ftsynth.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/squeak/!svn/ver/1923/trunk/platforms/win32/plugins/FT2Plugin/freetype/ftsynth.h
+END
+ttunpat.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/squeak/!svn/ver/1923/trunk/platforms/win32/plugins/FT2Plugin/freetype/ttunpat.h
+END
+ftstroke.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/1923/trunk/platforms/win32/plugins/FT2Plugin/freetype/ftstroke.h
+END
+ftmodapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/1923/trunk/platforms/win32/plugins/FT2Plugin/freetype/ftmodapi.h
+END
+ftchapters.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/squeak/!svn/ver/1923/trunk/platforms/win32/plugins/FT2Plugin/freetype/ftchapters.h
+END
+ftlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/squeak/!svn/ver/1923/trunk/platforms/win32/plugins/FT2Plugin/freetype/ftlist.h
+END
+ftlzw.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/squeak/!svn/ver/1923/trunk/platforms/win32/plugins/FT2Plugin/freetype/ftlzw.h
+END
+ftbitmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/1923/trunk/platforms/win32/plugins/FT2Plugin/freetype/ftbitmap.h
+END
+tttags.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/squeak/!svn/ver/1923/trunk/platforms/win32/plugins/FT2Plugin/freetype/tttags.h
+END
+ftincrem.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/1923/trunk/platforms/win32/plugins/FT2Plugin/freetype/ftincrem.h
+END
+ftrender.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/1923/trunk/platforms/win32/plugins/FT2Plugin/freetype/ftrender.h
+END
+ftglyph.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/squeak/!svn/ver/1923/trunk/platforms/win32/plugins/FT2Plugin/freetype/ftglyph.h
+END
+t1tables.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/1923/trunk/platforms/win32/plugins/FT2Plugin/freetype/t1tables.h
+END
+ftsnames.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/1923/trunk/platforms/win32/plugins/FT2Plugin/freetype/ftsnames.h
+END
+ftmoderr.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/1923/trunk/platforms/win32/plugins/FT2Plugin/freetype/ftmoderr.h
+END
+tttables.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/1923/trunk/platforms/win32/plugins/FT2Plugin/freetype/tttables.h
+END
+freetype.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/1923/trunk/platforms/win32/plugins/FT2Plugin/freetype/freetype.h
+END
+ftgasp.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/squeak/!svn/ver/1923/trunk/platforms/win32/plugins/FT2Plugin/freetype/ftgasp.h
+END
+ftbdf.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/squeak/!svn/ver/1923/trunk/platforms/win32/plugins/FT2Plugin/freetype/ftbdf.h
+END
+ftsizes.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/squeak/!svn/ver/1923/trunk/platforms/win32/plugins/FT2Plugin/freetype/ftsizes.h
+END
+fttypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/squeak/!svn/ver/1923/trunk/platforms/win32/plugins/FT2Plugin/freetype/fttypes.h
+END
+ftwinfnt.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/1923/trunk/platforms/win32/plugins/FT2Plugin/freetype/ftwinfnt.h
+END
+fterrdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/1923/trunk/platforms/win32/plugins/FT2Plugin/freetype/fterrdef.h
+END
+ftmm.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/squeak/!svn/ver/1923/trunk/platforms/win32/plugins/FT2Plugin/freetype/ftmm.h
+END
+ftgzip.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/squeak/!svn/ver/1923/trunk/platforms/win32/plugins/FT2Plugin/freetype/ftgzip.h
+END
+ttnameid.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/1923/trunk/platforms/win32/plugins/FT2Plugin/freetype/ttnameid.h
+END
+fterrors.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/1923/trunk/platforms/win32/plugins/FT2Plugin/freetype/fterrors.h
+END
+ftgxval.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/squeak/!svn/ver/1923/trunk/platforms/win32/plugins/FT2Plugin/freetype/ftgxval.h
+END
+ftimage.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/squeak/!svn/ver/1923/trunk/platforms/win32/plugins/FT2Plugin/freetype/ftimage.h
+END
+ftsystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/1923/trunk/platforms/win32/plugins/FT2Plugin/freetype/ftsystem.h
+END
+ftotval.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/squeak/!svn/ver/1923/trunk/platforms/win32/plugins/FT2Plugin/freetype/ftotval.h
+END
+ftpfr.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/squeak/!svn/ver/1923/trunk/platforms/win32/plugins/FT2Plugin/freetype/ftpfr.h
+END
+ftbbox.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/squeak/!svn/ver/1923/trunk/platforms/win32/plugins/FT2Plugin/freetype/ftbbox.h
+END
+ftxf86.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/squeak/!svn/ver/1923/trunk/platforms/win32/plugins/FT2Plugin/freetype/ftxf86.h
+END
+ftlcdfil.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/1923/trunk/platforms/win32/plugins/FT2Plugin/freetype/ftlcdfil.h
+END

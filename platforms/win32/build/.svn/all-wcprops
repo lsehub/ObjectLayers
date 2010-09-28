@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/squeak/!svn/ver/1767/trunk/platforms/win32/build
+END
+Croquet.def.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/squeak/!svn/ver/1530/trunk/platforms/win32/build/Croquet.def.in
+END
+splash.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/squeak/!svn/ver/1761/trunk/platforms/win32/build/splash.bmp
+END
+Makefile.plugin
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/squeak/!svn/ver/1530/trunk/platforms/win32/build/Makefile.plugin
+END
+Win32VMMaker.st
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/squeak/!svn/ver/1530/trunk/platforms/win32/build/Win32VMMaker.st
+END
+Squeak.def.in
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/squeak/!svn/ver/1530/trunk/platforms/win32/build/Squeak.def.in
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/squeak/!svn/ver/1767/trunk/platforms/win32/build/Makefile
+END

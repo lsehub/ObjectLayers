@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/squeak/!svn/ver/2084/trunk/platforms/unix/vm-sound-MacOSX
+END
+config.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/squeak/!svn/ver/2084/trunk/platforms/unix/vm-sound-MacOSX/config.cmake
+END
+Makefile.inc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/squeak/!svn/ver/620/trunk/platforms/unix/vm-sound-MacOSX/Makefile.inc
+END
+acinclude.m4
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/squeak/!svn/ver/620/trunk/platforms/unix/vm-sound-MacOSX/acinclude.m4
+END
+sqUnixSoundMacOSX.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/squeak/!svn/ver/2072/trunk/platforms/unix/vm-sound-MacOSX/sqUnixSoundMacOSX.c
+END
+sqUnixSoundDebug.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/squeak/!svn/ver/2026/trunk/platforms/unix/vm-sound-MacOSX/sqUnixSoundDebug.h
+END
+build.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/squeak/!svn/ver/2038/trunk/platforms/unix/vm-sound-MacOSX/build.cmake
+END

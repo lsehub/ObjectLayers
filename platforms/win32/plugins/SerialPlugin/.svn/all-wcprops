@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/squeak/!svn/ver/2090/trunk/platforms/win32/plugins/SerialPlugin
+END
+sqWin32SerialPort.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/squeak/!svn/ver/2090/trunk/platforms/win32/plugins/SerialPlugin/sqWin32SerialPort.c
+END

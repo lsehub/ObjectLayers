@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/SoundGenerationPlugin
+END
+sqOldSoundPrims.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/SoundGenerationPlugin/sqOldSoundPrims.c
+END
+SoundGenerationPlugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/SoundGenerationPlugin/SoundGenerationPlugin.h
+END

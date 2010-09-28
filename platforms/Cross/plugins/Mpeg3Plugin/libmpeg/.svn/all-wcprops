@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/squeak/!svn/ver/1364/trunk/platforms/Cross/plugins/Mpeg3Plugin/libmpeg
+END
+changesForSqueak.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/Mpeg3Plugin/libmpeg/changesForSqueak.h
+END
+bitstream.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/60/trunk/platforms/Cross/plugins/Mpeg3Plugin/libmpeg/bitstream.h
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/Mpeg3Plugin/libmpeg/configure
+END
+testaudio.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/Mpeg3Plugin/libmpeg/testaudio.c
+END
+mpeg3atrack.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/Mpeg3Plugin/libmpeg/mpeg3atrack.c
+END
+libmpeg3.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/squeak/!svn/ver/1294/trunk/platforms/Cross/plugins/Mpeg3Plugin/libmpeg/libmpeg3.c
+END
+mpeg3io.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/1338/trunk/platforms/Cross/plugins/Mpeg3Plugin/libmpeg/mpeg3io.c
+END
+global_config
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/Mpeg3Plugin/libmpeg/global_config
+END
+mpeg3atrack.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/Mpeg3Plugin/libmpeg/mpeg3atrack.h
+END
+libmpeg3.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/squeak/!svn/ver/1294/trunk/platforms/Cross/plugins/Mpeg3Plugin/libmpeg/libmpeg3.h
+END
+make_package
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/Mpeg3Plugin/libmpeg/make_package
+END
+mpeg3io.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/1294/trunk/platforms/Cross/plugins/Mpeg3Plugin/libmpeg/mpeg3io.h
+END
+mpeg3private.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/squeak/!svn/ver/365/trunk/platforms/Cross/plugins/Mpeg3Plugin/libmpeg/mpeg3private.h
+END
+mpeg3title.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/squeak/!svn/ver/1294/trunk/platforms/Cross/plugins/Mpeg3Plugin/libmpeg/mpeg3title.c
+END
+ioctl.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/Mpeg3Plugin/libmpeg/ioctl.h
+END
+mpeg3title.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/Mpeg3Plugin/libmpeg/mpeg3title.h
+END
+dump2.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/Mpeg3Plugin/libmpeg/dump2.c
+END
+udump.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/Mpeg3Plugin/libmpeg/udump.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/squeak/!svn/ver/350/trunk/platforms/Cross/plugins/Mpeg3Plugin/libmpeg/Makefile
+END
+mpeg3private.inc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/Mpeg3Plugin/libmpeg/mpeg3private.inc
+END
+timecode.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/Mpeg3Plugin/libmpeg/timecode.h
+END
+mpeg3cat.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/Mpeg3Plugin/libmpeg/mpeg3cat.c
+END
+dump.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/Mpeg3Plugin/libmpeg/dump.c
+END
+mpeg3demux.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/squeak/!svn/ver/1294/trunk/platforms/Cross/plugins/Mpeg3Plugin/libmpeg/mpeg3demux.c
+END
+test.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/Mpeg3Plugin/libmpeg/test.c
+END
+mpeg3toc.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/Mpeg3Plugin/libmpeg/mpeg3toc.c
+END
+mpeg3demux.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/Mpeg3Plugin/libmpeg/mpeg3demux.h
+END
+mpeg3vtrack.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/Mpeg3Plugin/libmpeg/mpeg3vtrack.c
+END
+mpeg3protos.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/squeak/!svn/ver/1294/trunk/platforms/Cross/plugins/Mpeg3Plugin/libmpeg/mpeg3protos.h
+END
+changesForSqueak.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/squeak/!svn/ver/506/trunk/platforms/Cross/plugins/Mpeg3Plugin/libmpeg/changesForSqueak.c
+END
+mpeg3css.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/Mpeg3Plugin/libmpeg/mpeg3css.h
+END
+bitstream.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/Mpeg3Plugin/libmpeg/bitstream.c
+END
+mpeg3vtrack.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/Mpeg3Plugin/libmpeg/mpeg3vtrack.h
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/squeak/!svn/ver/1689/trunk/platforms/Mac%20OS/plugins/ClipboardExtended
+END
+SophieSUnitClipboard.st
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/squeak/!svn/ver/1669/trunk/platforms/Mac%20OS/plugins/ClipboardExtended/SophieSUnitClipboard.st
+END
+ClipboardExtendedPlugin.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/squeak/!svn/ver/1669/trunk/platforms/Mac%20OS/plugins/ClipboardExtended/ClipboardExtendedPlugin.c
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/squeak/!svn/ver/1669/trunk/platforms/Mac%20OS/plugins/ClipboardExtended/Info.plist
+END
+SqueakClipboardExtendedxcodeproj.xcodeproj.zip
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/squeak/!svn/ver/1669/trunk/platforms/Mac%20OS/plugins/ClipboardExtended/SqueakClipboardExtendedxcodeproj.xcodeproj.zip
+END
+JMMExtendedClipBoardPlugin.1.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/squeak/!svn/ver/1689/trunk/platforms/Mac%20OS/plugins/ClipboardExtended/JMMExtendedClipBoardPlugin.1.cs
+END
+sqMacExtendedClipboard.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/squeak/!svn/ver/1669/trunk/platforms/Mac%20OS/plugins/ClipboardExtended/sqMacExtendedClipboard.c
+END
+Sophie-Clipboard.st
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/squeak/!svn/ver/1669/trunk/platforms/Mac%20OS/plugins/ClipboardExtended/Sophie-Clipboard.st
+END
+sqMacExtendedClipboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/squeak/!svn/ver/1669/trunk/platforms/Mac%20OS/plugins/ClipboardExtended/sqMacExtendedClipboard.h
+END

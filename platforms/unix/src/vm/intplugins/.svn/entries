@@ -1,0 +1,121 @@
+10
+
+dir
+2148
+http://squeakvm.org/svn/squeak/trunk/platforms/unix/src/vm/intplugins
+http://squeakvm.org/svn/squeak
+
+
+
+2009-08-28T02:49:56.286417Z
+2111
+piumarta
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fa1542d4-bde8-0310-ad64-8ed1123d492a
+
+Klatt
+dir
+
+JPEGReadWriter2Plugin
+dir
+
+ZipPlugin
+dir
+
+SecurityPlugin
+dir
+
+JPEGReaderPlugin
+dir
+
+SerialPlugin
+dir
+
+FFTPlugin
+dir
+
+CroquetPlugin
+dir
+
+StarSqueakPlugin
+dir
+
+MiscPrimitivePlugin
+dir
+
+GeniePlugin
+dir
+
+SoundPlugin
+dir
+
+LocalePlugin
+dir
+
+Matrix2x3Plugin
+dir
+
+DSAPrims
+dir
+
+SoundGenerationPlugin
+dir
+
+DropPlugin
+dir
+
+FloatArrayPlugin
+dir
+
+RePlugin
+dir
+
+B2DPlugin
+dir
+
+BMPReadWriterPlugin
+dir
+
+LargeIntegers
+dir
+
+FloatMathPlugin
+dir
+
+FilePlugin
+dir
+
+BitBltPlugin
+dir
+
+SoundCodecPrims
+dir
+
+ADPCMCodecPlugin
+dir
+
+AsynchFilePlugin
+dir
+
+SurfacePlugin
+dir
+
+SocketPlugin
+dir
+
+JoystickTabletPlugin
+dir
+

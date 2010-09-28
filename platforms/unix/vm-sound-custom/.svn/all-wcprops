@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/squeak/!svn/ver/2030/trunk/platforms/unix/vm-sound-custom
+END
+acinclude.m4
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/squeak/!svn/ver/1166/trunk/platforms/unix/vm-sound-custom/acinclude.m4
+END
+sqUnixCustomSound.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/squeak/!svn/ver/2030/trunk/platforms/unix/vm-sound-custom/sqUnixCustomSound.c
+END

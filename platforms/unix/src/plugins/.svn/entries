@@ -1,0 +1,88 @@
+10
+
+dir
+2148
+http://squeakvm.org/svn/squeak/trunk/platforms/unix/src/plugins
+http://squeakvm.org/svn/squeak
+
+
+
+2009-08-31T18:21:47.994503Z
+2117
+piumarta
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fa1542d4-bde8-0310-ad64-8ed1123d492a
+
+PseudoTTYPlugin
+dir
+
+Squeak3D
+dir
+
+RomePlugin
+dir
+
+KedamaPlugin2
+dir
+
+HostWindowPlugin
+dir
+
+UUIDPlugin
+dir
+
+AioPlugin
+dir
+
+FileCopyPlugin
+dir
+
+SqueakFFIPrims
+dir
+
+Mpeg3Plugin
+dir
+
+OggPlugin
+dir
+
+ImmX11Plugin
+dir
+
+B3DAcceleratorPlugin
+dir
+
+ClipboardExtendedPlugin
+dir
+
+KedamaPlugin
+dir
+
+MIDIPlugin
+dir
+
+UnixOSProcessPlugin
+dir
+
+GStreamerPlugin
+dir
+
+DBusPlugin
+dir
+
+XDisplayControlPlugin
+dir
+

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/squeak/!svn/ver/1519/trunk/platforms/Mac%20OS/plugins/LocalePlugin
+END
+sqMacLocaleCarbon.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/squeak/!svn/ver/1219/trunk/platforms/Mac%20OS/plugins/LocalePlugin/sqMacLocaleCarbon.h
+END
+sqMacLocaleOS9.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/squeak/!svn/ver/1219/trunk/platforms/Mac%20OS/plugins/LocalePlugin/sqMacLocaleOS9.c
+END
+Info-SqueakLocalePlugin__Upgraded_.plist
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/squeak/!svn/ver/1353/trunk/platforms/Mac%20OS/plugins/LocalePlugin/Info-SqueakLocalePlugin__Upgraded_.plist
+END
+sqMacLocaleOS9.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/squeak/!svn/ver/1219/trunk/platforms/Mac%20OS/plugins/LocalePlugin/sqMacLocaleOS9.h
+END
+LocalePlugin.proj.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/squeak/!svn/ver/1219/trunk/platforms/Mac%20OS/plugins/LocalePlugin/LocalePlugin.proj.xml
+END
+SqueakLocale.xcodeproj.zip
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/squeak/!svn/ver/1514/trunk/platforms/Mac%20OS/plugins/LocalePlugin/SqueakLocale.xcodeproj.zip
+END
+sqMacLocaleCarbon.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/squeak/!svn/ver/1219/trunk/platforms/Mac%20OS/plugins/LocalePlugin/sqMacLocaleCarbon.c
+END

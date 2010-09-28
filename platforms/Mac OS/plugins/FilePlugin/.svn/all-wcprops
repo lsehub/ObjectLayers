@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/squeak/!svn/ver/2144/trunk/platforms/Mac%20OS/plugins/FilePlugin
+END
+sqMacUnixFileInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/squeak/!svn/ver/1348/trunk/platforms/Mac%20OS/plugins/FilePlugin/sqMacUnixFileInterface.h
+END
+sqMacDirectory.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/squeak/!svn/ver/1197/trunk/platforms/Mac%20OS/plugins/FilePlugin/sqMacDirectory.c
+END
+sqMacUnixFileInterface.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/squeak/!svn/ver/2144/trunk/platforms/Mac%20OS/plugins/FilePlugin/sqMacUnixFileInterface.c
+END

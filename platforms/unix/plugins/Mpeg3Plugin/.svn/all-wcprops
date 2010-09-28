@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/squeak/!svn/ver/2107/trunk/platforms/unix/plugins/Mpeg3Plugin
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/squeak/!svn/ver/620/trunk/platforms/unix/plugins/Mpeg3Plugin/Makefile.in
+END
+config.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/squeak/!svn/ver/2107/trunk/platforms/unix/plugins/Mpeg3Plugin/config.cmake
+END
+mkmf.subdirs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/squeak/!svn/ver/620/trunk/platforms/unix/plugins/Mpeg3Plugin/mkmf.subdirs
+END
+acinclude.m4
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/squeak/!svn/ver/620/trunk/platforms/unix/plugins/Mpeg3Plugin/acinclude.m4
+END

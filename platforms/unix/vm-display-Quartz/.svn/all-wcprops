@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/squeak/!svn/ver/2084/trunk/platforms/unix/vm-display-Quartz
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/squeak/!svn/ver/1571/trunk/platforms/unix/vm-display-Quartz/Makefile.in
+END
+mkinfo
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/squeak/!svn/ver/620/trunk/platforms/unix/vm-display-Quartz/mkinfo
+END
+config.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/squeak/!svn/ver/2084/trunk/platforms/unix/vm-display-Quartz/config.cmake
+END
+Makefile.inc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/squeak/!svn/ver/620/trunk/platforms/unix/vm-display-Quartz/Makefile.inc
+END
+acinclude.m4
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/squeak/!svn/ver/620/trunk/platforms/unix/vm-display-Quartz/acinclude.m4
+END
+sqUnixQuartzGL.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/squeak/!svn/ver/620/trunk/platforms/unix/vm-display-Quartz/sqUnixQuartzGL.h
+END
+sqUnixQuartz.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/squeak/!svn/ver/2072/trunk/platforms/unix/vm-display-Quartz/sqUnixQuartz.m
+END
+Info.plist.in
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/squeak/!svn/ver/732/trunk/platforms/unix/vm-display-Quartz/Info.plist.in
+END
+CPS.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/squeak/!svn/ver/620/trunk/platforms/unix/vm-display-Quartz/CPS.h
+END
+PkgInfo
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/squeak/!svn/ver/620/trunk/platforms/unix/vm-display-Quartz/PkgInfo
+END
+build.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/squeak/!svn/ver/2084/trunk/platforms/unix/vm-display-Quartz/build.cmake
+END

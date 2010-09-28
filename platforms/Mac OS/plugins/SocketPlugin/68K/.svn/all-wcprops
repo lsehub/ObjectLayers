@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/squeak/!svn/ver/2/trunk/platforms/Mac%20OS/plugins/SocketPlugin/68K
+END
+dnr.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/squeak/!svn/ver/2/trunk/platforms/Mac%20OS/plugins/SocketPlugin/68K/dnr.c
+END
+sqMacNetworkNOMACTCP.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/squeak/!svn/ver/2/trunk/platforms/Mac%20OS/plugins/SocketPlugin/68K/sqMacNetworkNOMACTCP.c
+END
+AddressXlation.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/squeak/!svn/ver/2/trunk/platforms/Mac%20OS/plugins/SocketPlugin/68K/AddressXlation.h
+END
+MacTCP.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/squeak/!svn/ver/2/trunk/platforms/Mac%20OS/plugins/SocketPlugin/68K/MacTCP.h
+END

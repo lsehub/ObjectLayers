@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/squeak/!svn/ver/1694/trunk/platforms/win32/plugins/FilePlugin
+END
+sqWin32FilePrims.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/1694/trunk/platforms/win32/plugins/FilePlugin/sqWin32FilePrims.c
+END

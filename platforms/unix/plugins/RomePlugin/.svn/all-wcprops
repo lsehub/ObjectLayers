@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/squeak/!svn/ver/2095/trunk/platforms/unix/plugins/RomePlugin
+END
+config.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/squeak/!svn/ver/2095/trunk/platforms/unix/plugins/RomePlugin/config.cmake
+END
+Makefile.inc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/squeak/!svn/ver/1859/trunk/platforms/unix/plugins/RomePlugin/Makefile.inc
+END
+acinclude.m4
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/squeak/!svn/ver/2012/trunk/platforms/unix/plugins/RomePlugin/acinclude.m4
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/squeak/!svn/ver/2084/trunk/platforms/unix/plugins/AioPlugin
+END
+config.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/squeak/!svn/ver/2083/trunk/platforms/unix/plugins/AioPlugin/config.cmake
+END
+Makefile.inc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/squeak/!svn/ver/1499/trunk/platforms/unix/plugins/AioPlugin/Makefile.inc
+END
+build.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/squeak/!svn/ver/2084/trunk/platforms/unix/plugins/AioPlugin/build.cmake
+END

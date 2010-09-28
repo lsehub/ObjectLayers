@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/squeak/!svn/ver/2095/trunk/platforms/unix/vm-sound-NAS
+END
+sqUnixSoundNAS.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/squeak/!svn/ver/2072/trunk/platforms/unix/vm-sound-NAS/sqUnixSoundNAS.c
+END
+config.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/squeak/!svn/ver/2095/trunk/platforms/unix/vm-sound-NAS/config.cmake
+END
+Makefile.inc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/squeak/!svn/ver/855/trunk/platforms/unix/vm-sound-NAS/Makefile.inc
+END
+acinclude.m4
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/squeak/!svn/ver/620/trunk/platforms/unix/vm-sound-NAS/acinclude.m4
+END

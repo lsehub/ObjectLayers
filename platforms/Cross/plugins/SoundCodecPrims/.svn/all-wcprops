@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/squeak/!svn/ver/377/trunk/platforms/Cross/plugins/SoundCodecPrims
+END
+SoundCodecPrims.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/squeak/!svn/ver/2/trunk/platforms/Cross/plugins/SoundCodecPrims/SoundCodecPrims.h
+END
+sqSoundCodecPluginBasicPrims.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/squeak/!svn/ver/377/trunk/platforms/Cross/plugins/SoundCodecPrims/sqSoundCodecPluginBasicPrims.c
+END

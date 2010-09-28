@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/squeak/!svn/ver/1514/trunk/platforms/Mac%20OS/plugins/Mpeg3Plugin
+END
+myMacHeadersCarbon.pch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/squeak/!svn/ver/67/trunk/platforms/Mac%20OS/plugins/Mpeg3Plugin/myMacHeadersCarbon.pch
+END
+SqueakPlugin.icns
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/squeak/!svn/ver/67/trunk/platforms/Mac%20OS/plugins/Mpeg3Plugin/SqueakPlugin.icns
+END
+mpeglibAudioVideo.xcodeproj.zip
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/squeak/!svn/ver/1514/trunk/platforms/Mac%20OS/plugins/Mpeg3Plugin/mpeglibAudioVideo.xcodeproj.zip
+END
+mpeglibAudioVideo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/squeak/!svn/ver/67/trunk/platforms/Mac%20OS/plugins/Mpeg3Plugin/mpeglibAudioVideo.xml
+END
+sqMacFileBits.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/squeak/!svn/ver/1319/trunk/platforms/Mac%20OS/plugins/Mpeg3Plugin/sqMacFileBits.c
+END
+resources.sit
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/squeak/!svn/ver/67/trunk/platforms/Mac%20OS/plugins/Mpeg3Plugin/resources.sit
+END
+sqMacFileBits.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/squeak/!svn/ver/1319/trunk/platforms/Mac%20OS/plugins/Mpeg3Plugin/sqMacFileBits.h
+END
+mpeg3Plugin-Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/squeak/!svn/ver/1514/trunk/platforms/Mac%20OS/plugins/Mpeg3Plugin/mpeg3Plugin-Info.plist
+END

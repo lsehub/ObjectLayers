@@ -1,0 +1,91 @@
+10
+
+dir
+2148
+http://squeakvm.org/svn/squeak/trunk/platforms/win32/plugins
+http://squeakvm.org/svn/squeak
+
+
+
+2009-09-02T03:34:55.741334Z
+2125
+andreas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fa1542d4-bde8-0310-ad64-8ed1123d492a
+
+JPEGReadWriter2Plugin
+dir
+
+RomePlugin
+dir
+
+DropPlugin
+dir
+
+HostWindowPlugin
+dir
+
+FontPlugin
+dir
+
+UUIDPlugin
+dir
+
+SecurityPlugin
+dir
+
+SqueakFFIPrims
+dir
+
+Mpeg3Plugin
+dir
+
+B3DAcceleratorPlugin
+dir
+
+FloatMathPlugin
+dir
+
+FilePlugin
+dir
+
+SerialPlugin
+dir
+
+MIDIPlugin
+dir
+
+CroquetPlugin
+dir
+
+AsynchFilePlugin
+dir
+
+SocketPlugin
+dir
+
+SoundPlugin
+dir
+
+JoystickTabletPlugin
+dir
+
+FT2Plugin
+dir
+
+LocalePlugin
+dir
+

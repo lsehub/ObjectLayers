@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/squeak/!svn/ver/1923/trunk/platforms/win32/plugins/FT2Plugin/freetype/config
+END
+ftstdlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/squeak/!svn/ver/1923/trunk/platforms/win32/plugins/FT2Plugin/freetype/config/ftstdlib.h
+END
+ftconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/squeak/!svn/ver/1923/trunk/platforms/win32/plugins/FT2Plugin/freetype/config/ftconfig.h
+END
+ftmodule.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/squeak/!svn/ver/1923/trunk/platforms/win32/plugins/FT2Plugin/freetype/config/ftmodule.h
+END
+ftheader.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/squeak/!svn/ver/1923/trunk/platforms/win32/plugins/FT2Plugin/freetype/config/ftheader.h
+END
+ftoption.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/squeak/!svn/ver/1923/trunk/platforms/win32/plugins/FT2Plugin/freetype/config/ftoption.h
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/squeak/!svn/ver/1508/trunk/platforms/Cross/plugins/ExampleSurfacePlugin
+END
+sqMemorySurface.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/squeak/!svn/ver/1508/trunk/platforms/Cross/plugins/ExampleSurfacePlugin/sqMemorySurface.c
+END
+SurfacePlugin-Examples.st
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/squeak/!svn/ver/1508/trunk/platforms/Cross/plugins/ExampleSurfacePlugin/SurfacePlugin-Examples.st
+END
+ExampleSurfacePlugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/squeak/!svn/ver/1508/trunk/platforms/Cross/plugins/ExampleSurfacePlugin/ExampleSurfacePlugin.h
+END

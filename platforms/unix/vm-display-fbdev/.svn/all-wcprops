@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/squeak/!svn/ver/2095/trunk/platforms/unix/vm-display-fbdev
+END
+sqUnixFBDev.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/squeak/!svn/ver/2072/trunk/platforms/unix/vm-display-fbdev/sqUnixFBDev.c
+END
+sqUnixFBDevMouseADB.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/2072/trunk/platforms/unix/vm-display-fbdev/sqUnixFBDevMouseADB.c
+END
+sqUnixFBDevKeyboard.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/2072/trunk/platforms/unix/vm-display-fbdev/sqUnixFBDevKeyboard.c
+END
+00_README.fbdev
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/squeak/!svn/ver/1029/trunk/platforms/unix/vm-display-fbdev/00_README.fbdev
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/squeak/!svn/ver/1571/trunk/platforms/unix/vm-display-fbdev/Makefile.in
+END
+config.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/squeak/!svn/ver/2095/trunk/platforms/unix/vm-display-fbdev/config.cmake
+END
+sqUnixFBDevFramebuffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/squeak/!svn/ver/2072/trunk/platforms/unix/vm-display-fbdev/sqUnixFBDevFramebuffer.c
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/squeak/!svn/ver/702/trunk/platforms/unix/vm-display-fbdev/TODO
+END
+acinclude.m4
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/squeak/!svn/ver/677/trunk/platforms/unix/vm-display-fbdev/acinclude.m4
+END
+sqUnixFBDevKeymap.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/squeak/!svn/ver/2072/trunk/platforms/unix/vm-display-fbdev/sqUnixFBDevKeymap.c
+END
+sqUnixFBDevMouse.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/squeak/!svn/ver/2072/trunk/platforms/unix/vm-display-fbdev/sqUnixFBDevMouse.c
+END
+sqUnixFBDevMousePS2.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/2072/trunk/platforms/unix/vm-display-fbdev/sqUnixFBDevMousePS2.c
+END
+sqUnixFBDevUtil.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/squeak/!svn/ver/677/trunk/platforms/unix/vm-display-fbdev/sqUnixFBDevUtil.c
+END

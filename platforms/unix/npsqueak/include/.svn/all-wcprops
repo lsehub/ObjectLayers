@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/squeak/!svn/ver/620/trunk/platforms/unix/npsqueak/include
+END
+jritypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/squeak/!svn/ver/620/trunk/platforms/unix/npsqueak/include/jritypes.h
+END
+npupp.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/squeak/!svn/ver/620/trunk/platforms/unix/npsqueak/include/npupp.h
+END
+jri.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/squeak/!svn/ver/620/trunk/platforms/unix/npsqueak/include/jri.h
+END
+jri_md.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/squeak/!svn/ver/620/trunk/platforms/unix/npsqueak/include/jri_md.h
+END
+npapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/squeak/!svn/ver/620/trunk/platforms/unix/npsqueak/include/npapi.h
+END

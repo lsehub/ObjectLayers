@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/squeak/!svn/ver/1912/trunk/platforms/win32/plugins/LocalePlugin
+END
+sqWin32Locale.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/squeak/!svn/ver/1912/trunk/platforms/win32/plugins/LocalePlugin/sqWin32Locale.c
+END

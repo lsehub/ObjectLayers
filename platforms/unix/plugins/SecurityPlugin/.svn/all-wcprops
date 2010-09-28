@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/squeak/!svn/ver/2127/trunk/platforms/unix/plugins/SecurityPlugin
+END
+sqUnixSecurity.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/squeak/!svn/ver/2127/trunk/platforms/unix/plugins/SecurityPlugin/sqUnixSecurity.c
+END

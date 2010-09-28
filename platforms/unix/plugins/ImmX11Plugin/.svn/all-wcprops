@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/squeak/!svn/ver/2084/trunk/platforms/unix/plugins/ImmX11Plugin
+END
+config.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/squeak/!svn/ver/2084/trunk/platforms/unix/plugins/ImmX11Plugin/config.cmake
+END
+acinclude.m4
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/squeak/!svn/ver/1853/trunk/platforms/unix/plugins/ImmX11Plugin/acinclude.m4
+END
+build.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/squeak/!svn/ver/2038/trunk/platforms/unix/plugins/ImmX11Plugin/build.cmake
+END

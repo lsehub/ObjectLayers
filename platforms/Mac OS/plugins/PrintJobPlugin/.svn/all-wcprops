@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/squeak/!svn/ver/1841/trunk/platforms/Mac%20OS/plugins/PrintJobPlugin
+END
+sqMacPrinting.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/squeak/!svn/ver/1598/trunk/platforms/Mac%20OS/plugins/PrintJobPlugin/sqMacPrinting.c
+END
+Info-PrintJobPlugin__Upgraded_.plist
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/squeak/!svn/ver/1598/trunk/platforms/Mac%20OS/plugins/PrintJobPlugin/Info-PrintJobPlugin__Upgraded_.plist
+END
+PrintJobPlugin.xcodeproj.zip
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/squeak/!svn/ver/1598/trunk/platforms/Mac%20OS/plugins/PrintJobPlugin/PrintJobPlugin.xcodeproj.zip
+END
+sqMacPrinting.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/squeak/!svn/ver/1598/trunk/platforms/Mac%20OS/plugins/PrintJobPlugin/sqMacPrinting.h
+END
+RealPrintingPlugin-JMM.6.cs.zip
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/squeak/!svn/ver/1601/trunk/platforms/Mac%20OS/plugins/PrintJobPlugin/RealPrintingPlugin-JMM.6.cs.zip
+END
+RealPrinting-JMM.7.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/squeak/!svn/ver/1841/trunk/platforms/Mac%20OS/plugins/PrintJobPlugin/RealPrinting-JMM.7.cs
+END
+resources.sit
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/squeak/!svn/ver/426/trunk/platforms/Mac%20OS/plugins/PrintJobPlugin/resources.sit
+END
+RealPrinting-JMM.7.cs.zip
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/squeak/!svn/ver/1601/trunk/platforms/Mac%20OS/plugins/PrintJobPlugin/RealPrinting-JMM.7.cs.zip
+END
+PrintJobPlugin.project.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/squeak/!svn/ver/197/trunk/platforms/Mac%20OS/plugins/PrintJobPlugin/PrintJobPlugin.project.xml
+END

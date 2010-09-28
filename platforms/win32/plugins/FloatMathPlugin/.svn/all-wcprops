@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/squeak/!svn/ver/1529/trunk/platforms/win32/plugins/FloatMathPlugin
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/squeak/!svn/ver/1529/trunk/platforms/win32/plugins/FloatMathPlugin/Makefile
+END
+Makefile.win32
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/squeak/!svn/ver/1473/trunk/platforms/win32/plugins/FloatMathPlugin/Makefile.win32
+END

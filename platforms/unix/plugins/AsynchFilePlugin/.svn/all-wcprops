@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/squeak/!svn/ver/1571/trunk/platforms/unix/plugins/AsynchFilePlugin
+END
+sqUnixAsynchFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/squeak/!svn/ver/620/trunk/platforms/unix/plugins/AsynchFilePlugin/sqUnixAsynchFile.h
+END
+sqUnixAsynchFile.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/squeak/!svn/ver/1571/trunk/platforms/unix/plugins/AsynchFilePlugin/sqUnixAsynchFile.c
+END

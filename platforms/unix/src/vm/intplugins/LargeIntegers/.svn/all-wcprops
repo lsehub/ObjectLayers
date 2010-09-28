@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/squeak/!svn/ver/2106/trunk/platforms/unix/src/vm/intplugins/LargeIntegers
+END
+LargeIntegers.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/squeak/!svn/ver/2106/trunk/platforms/unix/src/vm/intplugins/LargeIntegers/LargeIntegers.c
+END

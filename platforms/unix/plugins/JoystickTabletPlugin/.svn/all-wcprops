@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/squeak/!svn/ver/1571/trunk/platforms/unix/plugins/JoystickTabletPlugin
+END
+sqUnixJoystickTablet.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/squeak/!svn/ver/1571/trunk/platforms/unix/plugins/JoystickTabletPlugin/sqUnixJoystickTablet.c
+END

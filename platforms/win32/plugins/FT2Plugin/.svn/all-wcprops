@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/squeak/!svn/ver/1923/trunk/platforms/win32/plugins/FT2Plugin
+END
+ft2build.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/squeak/!svn/ver/1923/trunk/platforms/win32/plugins/FT2Plugin/ft2build.h
+END
+freetype.a
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/squeak/!svn/ver/1923/trunk/platforms/win32/plugins/FT2Plugin/freetype.a
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/squeak/!svn/ver/1923/trunk/platforms/win32/plugins/FT2Plugin/Makefile
+END

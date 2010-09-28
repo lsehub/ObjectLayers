@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/squeak/!svn/ver/1604/trunk/platforms/Cross/plugins/FloatMathPlugin
+END
+ieee754names.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/squeak/!svn/ver/1528/trunk/platforms/Cross/plugins/FloatMathPlugin/ieee754names.h
+END
+FloatMathPlugin.st
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/squeak/!svn/ver/1378/trunk/platforms/Cross/plugins/FloatMathPlugin/FloatMathPlugin.st
+END
+asinh.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/squeak/!svn/ver/1528/trunk/platforms/Cross/plugins/FloatMathPlugin/asinh.c
+END
+scalbn.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/squeak/!svn/ver/1528/trunk/platforms/Cross/plugins/FloatMathPlugin/scalbn.c
+END
+hypot.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/squeak/!svn/ver/1528/trunk/platforms/Cross/plugins/FloatMathPlugin/hypot.c
+END
+FloatMathPlugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/squeak/!svn/ver/1604/trunk/platforms/Cross/plugins/FloatMathPlugin/FloatMathPlugin.h
+END
+pow.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/squeak/!svn/ver/1528/trunk/platforms/Cross/plugins/FloatMathPlugin/pow.c
+END
+rint.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/squeak/!svn/ver/1528/trunk/platforms/Cross/plugins/FloatMathPlugin/rint.c
+END
+finite.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/squeak/!svn/ver/1528/trunk/platforms/Cross/plugins/FloatMathPlugin/finite.c
+END
+modf.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/squeak/!svn/ver/1528/trunk/platforms/Cross/plugins/FloatMathPlugin/modf.c
+END
+fmod.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/squeak/!svn/ver/1528/trunk/platforms/Cross/plugins/FloatMathPlugin/fmod.c
+END
+k_rem_pio2.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/squeak/!svn/ver/1528/trunk/platforms/Cross/plugins/FloatMathPlugin/k_rem_pio2.c
+END
+expm1.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/squeak/!svn/ver/1528/trunk/platforms/Cross/plugins/FloatMathPlugin/expm1.c
+END
+atanh.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/squeak/!svn/ver/1528/trunk/platforms/Cross/plugins/FloatMathPlugin/atanh.c
+END
+copysign.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/squeak/!svn/ver/1528/trunk/platforms/Cross/plugins/FloatMathPlugin/copysign.c
+END
+k_tan.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/squeak/!svn/ver/1528/trunk/platforms/Cross/plugins/FloatMathPlugin/k_tan.c
+END
+exp.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/squeak/!svn/ver/1528/trunk/platforms/Cross/plugins/FloatMathPlugin/exp.c
+END
+acosh.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/squeak/!svn/ver/1528/trunk/platforms/Cross/plugins/FloatMathPlugin/acosh.c
+END
+k_cos.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/squeak/!svn/ver/1528/trunk/platforms/Cross/plugins/FloatMathPlugin/k_cos.c
+END
+sinh.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/squeak/!svn/ver/1528/trunk/platforms/Cross/plugins/FloatMathPlugin/sinh.c
+END
+k_sin.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/squeak/!svn/ver/1528/trunk/platforms/Cross/plugins/FloatMathPlugin/k_sin.c
+END
+atan2.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/squeak/!svn/ver/1528/trunk/platforms/Cross/plugins/FloatMathPlugin/atan2.c
+END
+isnan.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/squeak/!svn/ver/1528/trunk/platforms/Cross/plugins/FloatMathPlugin/isnan.c
+END
+rem_pio2.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/squeak/!svn/ver/1528/trunk/platforms/Cross/plugins/FloatMathPlugin/rem_pio2.c
+END
+ldexp.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/squeak/!svn/ver/1528/trunk/platforms/Cross/plugins/FloatMathPlugin/ldexp.c
+END
+log.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/squeak/!svn/ver/1528/trunk/platforms/Cross/plugins/FloatMathPlugin/log.c
+END
+log1p.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/squeak/!svn/ver/1528/trunk/platforms/Cross/plugins/FloatMathPlugin/log1p.c
+END
+log10.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/squeak/!svn/ver/1528/trunk/platforms/Cross/plugins/FloatMathPlugin/log10.c
+END
+tan.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/squeak/!svn/ver/1528/trunk/platforms/Cross/plugins/FloatMathPlugin/tan.c
+END
+atan.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/squeak/!svn/ver/1528/trunk/platforms/Cross/plugins/FloatMathPlugin/atan.c
+END
+scalb.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/squeak/!svn/ver/1528/trunk/platforms/Cross/plugins/FloatMathPlugin/scalb.c
+END
+cos.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/squeak/!svn/ver/1528/trunk/platforms/Cross/plugins/FloatMathPlugin/cos.c
+END
+FloatMathPluginTests.st
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/squeak/!svn/ver/1378/trunk/platforms/Cross/plugins/FloatMathPlugin/FloatMathPluginTests.st
+END
+acos.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/squeak/!svn/ver/1528/trunk/platforms/Cross/plugins/FloatMathPlugin/acos.c
+END
+sin.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/squeak/!svn/ver/1528/trunk/platforms/Cross/plugins/FloatMathPlugin/sin.c
+END
+sqrt.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/squeak/!svn/ver/1528/trunk/platforms/Cross/plugins/FloatMathPlugin/sqrt.c
+END
+asin.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/squeak/!svn/ver/1528/trunk/platforms/Cross/plugins/FloatMathPlugin/asin.c
+END
+tanh.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/squeak/!svn/ver/1528/trunk/platforms/Cross/plugins/FloatMathPlugin/tanh.c
+END
+cosh.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/squeak/!svn/ver/1528/trunk/platforms/Cross/plugins/FloatMathPlugin/cosh.c
+END

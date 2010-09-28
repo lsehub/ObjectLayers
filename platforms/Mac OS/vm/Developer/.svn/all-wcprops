@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/squeak/!svn/ver/2148/trunk/platforms/Mac%20OS/vm/Developer
+END
+sqGnu.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/squeak/!svn/ver/1355/trunk/platforms/Mac%20OS/vm/Developer/sqGnu.h
+END
+myMacHeaders.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/squeak/!svn/ver/433/trunk/platforms/Mac%20OS/vm/Developer/myMacHeaders.c
+END
+NPSqueakStub.sit
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/squeak/!svn/ver/766/trunk/platforms/Mac%20OS/vm/Developer/NPSqueakStub.sit
+END
+MyPlugin v2.proj.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/433/trunk/platforms/Mac%20OS/vm/Developer/MyPlugin%20v2.proj.xml
+END
+interp.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/squeak/!svn/ver/1232/trunk/platforms/Mac%20OS/vm/Developer/interp.h
+END
+sqMacMinimal.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/squeak/!svn/ver/433/trunk/platforms/Mac%20OS/vm/Developer/sqMacMinimal.c
+END
+SqueakVMUNIXPATHS.xcodeproj.zip
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/squeak/!svn/ver/2144/trunk/platforms/Mac%20OS/vm/Developer/SqueakVMUNIXPATHS.xcodeproj.zip
+END
+SqueakPro5.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/squeak/!svn/ver/1193/trunk/platforms/Mac%20OS/vm/Developer/SqueakPro5.xml
+END
+MacVMCorrectFileTypes.st
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/squeak/!svn/ver/1211/trunk/platforms/Mac%20OS/vm/Developer/MacVMCorrectFileTypes.st
+END
+myMacHeadersCarbon.pch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/433/trunk/platforms/Mac%20OS/vm/Developer/myMacHeadersCarbon.pch
+END
+NPSqueakStub.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/squeak/!svn/ver/765/trunk/platforms/Mac%20OS/vm/Developer/NPSqueakStub.c
+END
+MacSqueakIcons.zip
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/squeak/!svn/ver/2148/trunk/platforms/Mac%20OS/vm/Developer/MacSqueakIcons.zip
+END
+Squeak VM Universal-Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/squeak/!svn/ver/2144/trunk/platforms/Mac%20OS/vm/Developer/Squeak%20VM%20Universal-Info.plist
+END
+resources.zip
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/squeak/!svn/ver/1521/trunk/platforms/Mac%20OS/vm/Developer/resources.zip
+END
+myMacHeaders.pch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/squeak/!svn/ver/1191/trunk/platforms/Mac%20OS/vm/Developer/myMacHeaders.pch
+END
+MyPlugin68K v2.proj.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/squeak/!svn/ver/433/trunk/platforms/Mac%20OS/vm/Developer/MyPlugin68K%20v2.proj.xml
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/squeak/!svn/ver/1277/trunk/platforms/RiscOS/misc/ToCopy/!Squeak
+END
+!boot
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/squeak/!svn/ver/946/trunk/platforms/RiscOS/misc/ToCopy/!Squeak/!boot
+END
+!run
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/squeak/!svn/ver/1217/trunk/platforms/RiscOS/misc/ToCopy/!Squeak/!run
+END
+!ImName
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/squeak/!svn/ver/947/trunk/platforms/RiscOS/misc/ToCopy/!Squeak/!ImName
+END
+!Help
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/squeak/!svn/ver/1277/trunk/platforms/RiscOS/misc/ToCopy/!Squeak/!Help
+END
+!Sprites
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/squeak/!svn/ver/946/trunk/platforms/RiscOS/misc/ToCopy/!Squeak/!Sprites
+END
+!Sprites22
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/squeak/!svn/ver/946/trunk/platforms/RiscOS/misc/ToCopy/!Squeak/!Sprites22
+END
+Templates
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/squeak/!svn/ver/946/trunk/platforms/RiscOS/misc/ToCopy/!Squeak/Templates
+END

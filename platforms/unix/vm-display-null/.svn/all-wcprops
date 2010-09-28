@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/squeak/!svn/ver/2038/trunk/platforms/unix/vm-display-null
+END
+Makefile.inc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/squeak/!svn/ver/620/trunk/platforms/unix/vm-display-null/Makefile.inc
+END
+sqUnixDisplayNull.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/squeak/!svn/ver/1990/trunk/platforms/unix/vm-display-null/sqUnixDisplayNull.c
+END
+build.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/squeak/!svn/ver/2038/trunk/platforms/unix/vm-display-null/build.cmake
+END

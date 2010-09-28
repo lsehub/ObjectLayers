@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/squeak/!svn/ver/2138/trunk/platforms/unix/doc
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/squeak/!svn/ver/1569/trunk/platforms/unix/doc/LICENSE
+END
+README.Sound
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/squeak/!svn/ver/1029/trunk/platforms/unix/doc/README.Sound
+END
+RELEASE_NOTES_3.11.3.2135
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/squeak/!svn/ver/2138/trunk/platforms/unix/doc/RELEASE_NOTES_3.11.3.2135
+END
+3.2-1.RELEASE_NOTES
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/squeak/!svn/ver/620/trunk/platforms/unix/doc/3.2-1.RELEASE_NOTES
+END
+3.2-2.RELEASE_NOTES
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/squeak/!svn/ver/620/trunk/platforms/unix/doc/3.2-2.RELEASE_NOTES
+END
+squeak.1
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/squeak/!svn/ver/2031/trunk/platforms/unix/doc/squeak.1
+END
+3.2-3.RELEASE_NOTES
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/squeak/!svn/ver/620/trunk/platforms/unix/doc/3.2-3.RELEASE_NOTES
+END
+3.2-4.RELEASE_NOTES
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/squeak/!svn/ver/620/trunk/platforms/unix/doc/3.2-4.RELEASE_NOTES
+END
+3.2-5.RELEASE_NOTES
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/squeak/!svn/ver/620/trunk/platforms/unix/doc/3.2-5.RELEASE_NOTES
+END
+3.2-6.RELEASE_NOTES
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/squeak/!svn/ver/620/trunk/platforms/unix/doc/3.2-6.RELEASE_NOTES
+END
+README.Keyboard
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/squeak/!svn/ver/620/trunk/platforms/unix/doc/README.Keyboard
+END
+3.6-3.RELEASE_NOTES
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/squeak/!svn/ver/860/trunk/platforms/unix/doc/3.6-3.RELEASE_NOTES
+END
+HowToBuildFromSource.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/squeak/!svn/ver/2023/trunk/platforms/unix/doc/HowToBuildFromSource.pdf
+END
+3.7b-2.RELEASE_NOTES
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/squeak/!svn/ver/955/trunk/platforms/unix/doc/3.7b-2.RELEASE_NOTES
+END
+3.7b-3.RELEASE_NOTES
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/squeak/!svn/ver/955/trunk/platforms/unix/doc/3.7b-3.RELEASE_NOTES
+END
+3.7b-4.RELEASE_NOTES
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/squeak/!svn/ver/955/trunk/platforms/unix/doc/3.7b-4.RELEASE_NOTES
+END
+3.9-4.RELEASE_NOTES
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/squeak/!svn/ver/1477/trunk/platforms/unix/doc/3.9-4.RELEASE_NOTES
+END
+3.7b-5.RELEASE_NOTES
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/squeak/!svn/ver/955/trunk/platforms/unix/doc/3.7b-5.RELEASE_NOTES
+END
+3.7-7.RELEASE_NOTES
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/squeak/!svn/ver/1098/trunk/platforms/unix/doc/3.7-7.RELEASE_NOTES
+END
+HowToBuildFromSource.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/squeak/!svn/ver/2023/trunk/platforms/unix/doc/HowToBuildFromSource.txt
+END
+README.Contributing
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/squeak/!svn/ver/620/trunk/platforms/unix/doc/README.Contributing
+END
+3.9-7.RELEASE_NOTES
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/squeak/!svn/ver/1506/trunk/platforms/unix/doc/3.9-7.RELEASE_NOTES
+END
+3.10-1.RELEASE_NOTES
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/squeak/!svn/ver/1852/trunk/platforms/unix/doc/3.10-1.RELEASE_NOTES
+END
+HowToBuildFromSource.ps
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/squeak/!svn/ver/2023/trunk/platforms/unix/doc/HowToBuildFromSource.ps
+END
+3.10-2.RELEASE_NOTES
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/squeak/!svn/ver/1861/trunk/platforms/unix/doc/3.10-2.RELEASE_NOTES
+END
+3.10-3.RELEASE_NOTES
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/squeak/!svn/ver/1871/trunk/platforms/unix/doc/3.10-3.RELEASE_NOTES
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/squeak/!svn/ver/1570/trunk/platforms/unix/doc/COPYING
+END
+COPYRIGHT
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/squeak/!svn/ver/1570/trunk/platforms/unix/doc/COPYRIGHT
+END
+3.5-1devel.RELEASE_NOTES
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/squeak/!svn/ver/620/trunk/platforms/unix/doc/3.5-1devel.RELEASE_NOTES
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/squeak/!svn/ver/620/trunk/platforms/unix/doc/Makefile
+END

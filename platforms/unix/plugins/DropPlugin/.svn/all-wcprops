@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/squeak/!svn/ver/2083/trunk/platforms/unix/plugins/DropPlugin
+END
+config.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/squeak/!svn/ver/2083/trunk/platforms/unix/plugins/DropPlugin/config.cmake
+END
+Makefile.inc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/squeak/!svn/ver/620/trunk/platforms/unix/plugins/DropPlugin/Makefile.inc
+END
+sqUnixDragDrop.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/squeak/!svn/ver/1933/trunk/platforms/unix/plugins/DropPlugin/sqUnixDragDrop.c
+END

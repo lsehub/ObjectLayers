@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/squeak/!svn/ver/521/trunk/platforms/Mac%20OS/vm/PluginSDK%204.01a/Common
+END
+npmac.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/squeak/!svn/ver/521/trunk/platforms/Mac%20OS/vm/PluginSDK%204.01a/Common/npmac.cpp
+END
+npwin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/squeak/!svn/ver/2/trunk/platforms/Mac%20OS/vm/PluginSDK%204.01a/Common/npwin.cpp
+END

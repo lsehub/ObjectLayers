@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/squeak/!svn/ver/1857/trunk/platforms/unix/plugins/SoundPlugin
+END
+sqUnixSound.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/squeak/!svn/ver/1857/trunk/platforms/unix/plugins/SoundPlugin/sqUnixSound.c
+END

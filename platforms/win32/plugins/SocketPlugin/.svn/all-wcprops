@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/squeak/!svn/ver/1976/trunk/platforms/win32/plugins/SocketPlugin
+END
+ws2tcpip.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/squeak/!svn/ver/1976/trunk/platforms/win32/plugins/SocketPlugin/ws2tcpip.h
+END
+wspiapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/squeak/!svn/ver/1976/trunk/platforms/win32/plugins/SocketPlugin/wspiapi.h
+END
+winsock.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/squeak/!svn/ver/1976/trunk/platforms/win32/plugins/SocketPlugin/winsock.h
+END
+winsock2.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/squeak/!svn/ver/1976/trunk/platforms/win32/plugins/SocketPlugin/winsock2.h
+END
+sqWin32NewNet.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/squeak/!svn/ver/1976/trunk/platforms/win32/plugins/SocketPlugin/sqWin32NewNet.c
+END

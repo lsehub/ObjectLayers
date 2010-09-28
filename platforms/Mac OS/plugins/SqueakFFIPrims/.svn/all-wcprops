@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/squeak/!svn/ver/1817/trunk/platforms/Mac%20OS/plugins/SqueakFFIPrims
+END
+x86-sysv-asm-MacIntel.S
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/squeak/!svn/ver/1817/trunk/platforms/Mac%20OS/plugins/SqueakFFIPrims/x86-sysv-asm-MacIntel.S
+END
+SqueakFFIPrims.proj.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/squeak/!svn/ver/491/trunk/platforms/Mac%20OS/plugins/SqueakFFIPrims/SqueakFFIPrims.proj.xml
+END
+sqMacIntel-Win32.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/squeak/!svn/ver/1373/trunk/platforms/Mac%20OS/plugins/SqueakFFIPrims/sqMacIntel-Win32.c
+END
+ppc-darwin-Carbon-UI.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/squeak/!svn/ver/1373/trunk/platforms/Mac%20OS/plugins/SqueakFFIPrims/ppc-darwin-Carbon-UI.c
+END
+x86-sysv-MacIntel.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/squeak/!svn/ver/1373/trunk/platforms/Mac%20OS/plugins/SqueakFFIPrims/x86-sysv-MacIntel.c
+END
+ppc-global.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/squeak/!svn/ver/1353/trunk/platforms/Mac%20OS/plugins/SqueakFFIPrims/ppc-global.h
+END
+Info-SqueakFFIPlugin__Upgraded_.plist
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/squeak/!svn/ver/1413/trunk/platforms/Mac%20OS/plugins/SqueakFFIPrims/Info-SqueakFFIPlugin__Upgraded_.plist
+END
+sqMacFFI.s
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/squeak/!svn/ver/1369/trunk/platforms/Mac%20OS/plugins/SqueakFFIPrims/sqMacFFI.s
+END
+SqueakFFI.xcodeproj.zip
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/squeak/!svn/ver/1514/trunk/platforms/Mac%20OS/plugins/SqueakFFIPrims/SqueakFFI.xcodeproj.zip
+END
+ppc-darwin-asm-MacIntel.S
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/squeak/!svn/ver/1373/trunk/platforms/Mac%20OS/plugins/SqueakFFIPrims/ppc-darwin-asm-MacIntel.S
+END
+sqMacFFIPPC.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/squeak/!svn/ver/1413/trunk/platforms/Mac%20OS/plugins/SqueakFFIPrims/sqMacFFIPPC.c
+END

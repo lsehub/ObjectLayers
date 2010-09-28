@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/squeak/!svn/ver/540/trunk/platforms/win32/extras
+END
+Win32StandardVMConfigurationTest.st
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/squeak/!svn/ver/539/trunk/platforms/win32/extras/Win32StandardVMConfigurationTest.st
+END
+FontPlugin.st
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/squeak/!svn/ver/539/trunk/platforms/win32/extras/FontPlugin.st
+END
+RePlugin.st
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/squeak/!svn/ver/539/trunk/platforms/win32/extras/RePlugin.st
+END

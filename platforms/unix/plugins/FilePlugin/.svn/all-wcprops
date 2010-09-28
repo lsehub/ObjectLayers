@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/squeak/!svn/ver/2038/trunk/platforms/unix/plugins/FilePlugin
+END
+config.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/squeak/!svn/ver/2038/trunk/platforms/unix/plugins/FilePlugin/config.cmake
+END
+sqUnixFile.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/squeak/!svn/ver/1571/trunk/platforms/unix/plugins/FilePlugin/sqUnixFile.c
+END
